@@ -1,0 +1,27 @@
+vazifa - 1
+Fast food buyurtmasi
+Foydalanuvchidan: Burger soni , Bitta burger narxi , Cola narxi
+Jami to‘lovni hisoblang.
+
+Vazifa 2 — Taksi yo‘l haqi
+Foydalanuvchidan:
+Bosib o‘tilgan masofa (km — float)
+1 km narxi (int)
+Boshlang‘ich to‘lov (int)
+Umumiy yo‘l haqqini hisoblab chiqaring
+
+
+3 — Elektr energiyasi hisobi
+Foydalanuvchidan:
+Oldingi hisoblagich ko‘rsatkichi
+Hozirgi ko‘rsatkich
+1 kVt narxi
+Necha kVt ishlatilganini va jami to‘lovni chiqaring.
+
+
+4 - vazifa - Bonus
+Foydalanuvchidan:
+Kuniga ishlaydigan soatlari
+1 soat uchun haq
+Bir oyda nechta kun ishlashi
+Oylik daromadni chiqar

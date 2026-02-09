@@ -1,0 +1,415 @@
+
+
+
+
+#string uyga vazifa
+
+#1. Matn uzunligini qaytaradigan funksiya yoz
+# 2. Matnni katta harflarga o‘tkaz
+# 3. Matnni kichik harflarga o‘tkaz
+# 4. Ismni qabul qilib "Salom ISM" ko‘rinishida chiqar
+# 5. Matnning birinchi harfini qaytar
+# 6. Matn oxirgi harfini qaytar
+# 7. Matnda nechta belgi borligini hisobla (bo‘shliq bilan)
+# 8. Matnni teskari qilib qaytar
+# 9. Matnda nechta so‘z borligini top
+# 10 Matnda berilgan harf nechta ekanini sanab ber
+# 11 Matn palindrome ekanini tekshir
+# 12 Matndan faqat raqamlarni ajratib ol
+# 13 Matnda bo‘shliqlarni _ bilan almashtir
+# 14 Matn ichida berilgan so‘z bor yoki yo‘qligini tekshir
+# 15 Matndagi eng uzun so‘zni top
+# 16 Har bir so‘zning birinchi harfini katta qil
+# 17 Takrorlangan harflarni olib tashla
+# 18 Matnni camelCase ga o‘tkaz (hello world → helloWorld)
+# 19 Eng ko‘p ishlatilgan harfni top
+# 20 Matndan email formatini ajratib ol
+
+
+
+
+
+
+# Funtion uyga vazifa
+
+# Ismni qabul qilib "Salom, {ism}" chiqaradigan funksiya yoz
+# Ikki sonni qo‘shib qaytaradigan funksiya
+# Sonning kvadratini qaytaradigan funksiya
+# Son juft yoki toqligini qaytaradigan funksiya
+# Yilni qabul qilib yoshni hisoblaydigan funksiya (2026 deb ol)
+# Uchta sonning o‘rtachasini top
+# Son musbat, manfiy yoki 0 ekanini aniqla
+# Radius berilsa aylana uzunligini top (π = 3.14)
+# Ikki son ichidan kattasini qaytar
+# Son 10 dan katta bo‘lsa True aks holda False qaytar
+# Sonlar ro‘yxatidagi eng kattasini top
+# Ro‘yxatdagi juft sonlarni qaytar
+# Matn uzunligini qaytar
+# So‘z palindrome ekanini tekshir ("anna")
+# Son faktorialini hisobla
+# Ro‘yxatdagi sonlar yig‘indisini top
+# Son tub (prime) ekanini tekshir
+# Ikki ro‘yxatni birlashtir
+# Matndan unli harflarni sanab ber
+# Sonlar ichidan faqat musbatlarini qaytar
+# Fibonacci ketma-ketligining n-ta elementini qaytar
+# Ro‘yxatdan takrorlangan elementlarni olib tashla
+# Eng ko‘p uchragan elementni top
+# Berilgan sonni raqamlarga ajrat (123 → [1,2,3])
+# Ikki son orasidagi tub sonlarni chiqar
+# Matndagi so‘zlar sonini hisobla
+# Ro‘yxatni teskari qilib qaytar (reverse)
+# Son binary ko‘rinishini qaytar
+# 2D ro‘yxatdagi eng katta sonni top
+# Kalkulyator funksiyasi (+ - * /) yarat
+
+
+
+# List - uyga vazifalar
+
+# Ro‘yxat uzunligini qaytar
+# Birinchi elementni qaytar
+# Oxirgi elementni qaytar
+# Ro‘yxatga yangi element qo‘sh
+# Ro‘yxatdan element o‘chir
+# Ikki ro‘yxatni birlashtir
+# Ro‘yxatdagi eng katta sonni top
+# Eng kichik sonni top
+# Ro‘yxatdagi barcha sonlarni yig‘
+# Ro‘yxatni teskari qil
+# Juft sonlarni ajratib ol
+# Toq sonlarni ajratib ol
+# Takrorlangan elementlarni olib tashla
+# Ro‘yxatni sort qil (o‘sish tartibida)
+# Berilgan element nechta ekanini sanab ber
+# Musbat sonlarni ajrat
+# Manfiy sonlarni ajrat
+# Ro‘yxatda son bor yoki yo‘qligini tekshir
+# Har bir elementni 2 ga ko‘paytir
+# Faqat string elementlarni ajratib ol
+# Eng ko‘p uchragan elementni top
+# Ikkinchi eng katta sonni top
+# Ro‘yxatni bo‘laklarga bo‘l (chunk)
+# 2 ta ro‘yxatdan umumiy elementlarni top
+# 2D ro‘yxatdan eng katta sonni top
+# Sonlar o‘rtachasidan katta bo‘lganlarni ajrat
+# Ro‘yxat ichidagi ro‘yxatlarni tekisla (flatten)
+# Faqat unikal elementlarni qoldir
+# Ro‘yxatni aylantir ([1,2,3,4] → [3,4,1,2])
+# Ro‘yxatdan eng uzun stringni top
+
+
+# For - uyga vazifa
+
+# 1 dan 10 gacha chiqar
+# 1 dan n gacha chiqar
+# 10 dan 1 gacha chiqar
+# Ro‘yxatdagi barcha elementlarni chiqar
+# Stringdagi harflarni alohida chiqar
+# 1 dan 20 gacha juft sonlarni chiqar
+# 1 dan 20 gacha toq sonlarni chiqar
+# Ro‘yxatdagi sonlarni 2 ga ko‘paytirib chiqar
+# 1 dan n gacha sonlar yig‘indisini top
+# String uzunligini hisobla
+# Ro‘yxatdagi manfiy sonlarni chiqar
+# Har bir so‘z uzunligini chiqar
+# 1 dan 10 gacha kvadratlarni chiqar
+# Ro‘yxatdan faqat musbatlarni chiqar
+# Matndagi unli harflarni chiqar
+# Son faktorialini hisobla
+# Ro‘yxatdagi eng katta sonni top
+# Eng kichik sonni top
+# Juft sonlar sonini sanab ber
+# Toq sonlar sonini sanab ber
+# Stringni teskari chiqar
+# Ro‘yxatdagi sonlar o‘rtachasini top
+# Eng uzun so‘zni top
+# Palindrome so‘zni tekshir
+# Fibonacci ketma-ketligini chiqar
+# Ro‘yxatda berilgan son nechta ekanini sanab ber
+# Ikki ro‘yxat umumiy elementlarini top
+# Matndagi harflar chastotasini hisobla
+# Takrorlangan elementlarni top
+# Son tub ekanini tekshir
+# 1 dan n gacha tub sonlarni chiqar
+# Stringdan raqamlarni ajratib ol
+# 2D ro‘yxatdagi barcha sonlarni chiqar
+# Har bir elementga indeksini qo‘shib chiqar
+# So‘zlarni uzunligi bo‘yicha sort qilib chiqar
+# Ro‘yxatni chunklarga bo‘l
+# Eng ko‘p uchragan elementni top
+# 2D listdan eng katta sonni top
+# Ro‘yxatni teskari qilib qayta yarat (reverse loop bilan)
+# Faqat unikal elementlarni chiqar
+# Berilgan songacha Armstrong sonlarni top
+# Matndagi eng ko‘p ishlatilgan harfni top
+# Ro‘yxatda ketma-ket o‘suvchi qismini top
+# Ikkita ro‘yxatdan farqli elementlarni top
+# Sonni raqamlarga ajrat for bilan
+# Har bir so‘zni camelCase formatga o‘tkaz
+# Pascal uchburchagini chiqar
+# Sonlar ichidan perfect numberlarni top
+# Ro‘yxatdagi juft sonlar yig‘indisini top
+# Nested loop bilan ko‘paytirish jadvalini chiqar
+
+
+
+
+# string - vazifalar 2 
+
+1. Ortiqcha probellarni olib tashlab _ bilan ulab ber
+" hello python world " → hello_python_world
+2. Email haqiqiyligini tekshir (@ va . borligini)
+3. Gapdagi har bir so‘zning bosh harfini katta qil
+4. Matndan barcha raqamlarni olib tashla
+"abc123xyz45" → abcxyz
+5. Faqat raqamlarni qoldir
+"phone: +99890abc123" → 99890123
+6. Eng ko‘p takrorlangan harfni top
+7. Palindrom ekanligini tekshir
+"level" → True
+8. So‘zlar sonini aniq hisobla (ko‘p probellarni inobatga olmay)
+9. Gapni so‘zlar bo‘yicha teskari qil
+10. Har bir harfdan nechta borligini chiqar
+hello → h:1 e:1 l:2 o:1
+11. Matndan faqat katta harflarni ajratib ol
+12. Matndan faqat kichik harflarni ajratib ol
+13. Birinchi va oxirgi harfni almashtir
+14. Bir xil ketma-ket harflarni bittaga tushir
+"aaabbccc" → "abc"
+15. Eng uzun so‘zni top
+16. Faqat alifbo harflarini qoldir (belgilarni o‘chir)
+17. Gapdagi so‘zlarni alfabet bo‘yicha tartibla
+18. Matnda nechta unli harf borligini top (a,e,i,o,u)
+19. So‘z ichidagi harflarni teskari qil
+hello → olleh
+20. Gapdan berilgan so‘zni o‘chir
+"I love python" remove "love"
+21. Matn ichida so‘z necha marta chiqishini top
+22. Har bir so‘zni uzunligi bilan chiqar
+python → python(6)
+23. So‘zlar orasiga - qo‘yib birlashtir
+24. Faqat juft indeksdagi harflarni chiqar
+25. Faqat toq indeksdagi harflarni chiqar
+26. Matndagi barcha a harflarni @ ga almashtir
+27. So‘z ichidagi eng kam ishlatilgan harfni top
+28. Gapdagi har bir so‘zni teskari yoz (tartib saqlansin)
+Python is cool → nohtyP si looc
+29. Faqat takrorlanmagan harflarni chiqar
+30. String ichida faqat bitta marta chiqadigan so‘zlarni top
+
+
+
+
+
+
+
+
+
+
+# if else uchun uyga vazifa
+
+
+Son musbatmi manfiymi tekshir
+Son juftmi toqmi tekshir
+Son 0 ga tengmi
+Ikki sondan kattasini top
+Ikki sondan kichigini top
+Son 10 dan kattami
+Son 100 dan kichikmi
+Son 5 ga bo‘linadimi
+Son 3 va 5 ga bo‘linadimi
+Yosh balog‘atga yetganmi (18+)
+Bahoni A/B/C/D/F ga ajrat
+Yil kabisa yilmi tekshir
+Uchta sondan kattasini top
+Uchta sondan kichigini top
+Harorat sovuqmi yoki issiqmi
+Parol uzunligi yetarlimi
+Son manfiy emasmi
+Son kvadratmi (perfect square)
+Ikki son tengmi
+Son oralig‘dami (1–10)
+So‘z bo‘shmi yoki yo‘
+Belgining harf yoki raqam ekanini tekshi
+Son musbat va juftmi
+Son manfiy yoki 0mi
+Son 10 va 20 orasidami
+Uchburchak bo‘la oladimi (3 tomon bilan)
+Baho o‘tganmi yoki yiqilganmi
+Son 7 ga karralimi
+So‘z uzunligi 5 dan kattami
+Son 2 ga bo‘linmaydimi
+🟡 O‘RTACHA (31–70)
+Uchta sondan o‘rtachasini top (if bilan solishtirib)
+Eng katta va eng kichikni birga top
+Son musbat bo‘lsa kvadratini chiqar, manfiy bo‘lsa moduli
+Son juft bo‘lsa 2 ga bo‘l, toq bo‘lsa 3 ga ko‘paytir
+Haroratga qarab kiyim tavsiya qil
+Ballga qarab stipendiya bor-yo‘qligini aniqlash
+Oy raqamiga qarab faslni aniqlash
+Kun raqamiga qarab hafta kuni chiqar
+Son 3, 5 yoki 7 ga bo‘linadimi
+Parol ichida raqam bormi
+Son ijobiy va 100 dan kichikmi
+Son manfiy yoki 50 dan kattami
+Son 10 dan kichik yoki 100 dan kattami
+Harfni unli yoki undoshligini tekshir
+Son ikki xonali yoki yo‘q
+Baho tizimini if-elif bilan to‘liq yoz
+Yil 21-asrga tegishlimi
+Uchta sondan o‘rtacha kattasini top
+Son 4 ga bo‘linib 8 ga bo‘linmaydimi
+So‘z palindrome ekanini tekshir
+Uchburchak teng tomonlimi
+Uchburchak to‘g‘ri burchaklimi
+Ish soatiga qarab maosh hisobla
+Ballga qarab reyting chiqar
+Harorat muzlash nuqtasidami
+Son 1 dan 100 oralig‘idami
+Login va parol to‘g‘rimi tekshir
+Son manfiy emas va juftmi
+Uchta sondan medianani top
+Son 6 ga bo‘linib 9 ga bo‘linmaydimi
+So‘z uzunligi juftmi
+Yil kabisa emasligini tekshir
+Son 3 xonali yoki yo‘q
+Belgini katta harfmi tekshir
+So‘z ichida "a" bormi
+Ball 90+ bo‘lsa A chiqar
+Harorat ekstremalmi
+Son kvadrat va juftmi
+Uchburchak scalene ekanini aniqlash
+Son 2 ning darajasimi
+Uchta sondan tartiblab chiqar (if bilan)
+Eng yaqin 10 likka yaxlitla
+Son modul qiymati 50 dan katta bo‘lsa chiqar
+Kredit beriladimi shart bilan
+Soliq foizini daromadga qarab aniqlash
+Ballga qarab GPA hisobla
+Haroratga qarab holat (muz/suv/bug‘)
+Son raqamlar yig‘indisi 10 dan kattami
+Son o‘suvchi tartibda joylashganmi (3 raqamli son)
+Son raqamlari tengmi
+Son raqamlari ichida 0 bormi
+Son Armstrong sonmi
+Son perfect numbermi
+Son tub yoki murakkabmi
+3 ta son uchburchak bo‘lib burchaklari turini aniqlash
+Yoshga qarab narx chegirmasi
+Kun ish kuni yoki dam olish kuni
+Oyda nechta kun borligini aniqlash
+Sonlar yig‘indisi musbatmi
+Son 100 ga eng yaqinmi (2 ta bilan solishtirib)
+Baho bo‘yicha tavsiya chiqar
+Harorat xavfli darajadami
+Kredit foiz stavkasini aniqlash
+Sonning raqamlari o‘suvchi tartibdami
+Son raqamlari kamayuvchi tartibdami
+Uchta son arifmetik progressiyami
+Uchta son geometrik progressiyami
+Ish tajribasiga qarab maosh oshirish
+Ballga qarab grant yutganmi
+Son raqamlari yig‘indisi juftmi
+
+
+
+
+
+
+
+# Lugatlar bulan ishlash - vazifa
+
+Lug‘atdagi barcha kalitlarni chiqar
+Lug‘atdagi barcha qiymatlarni chiqar
+Kalit bo‘yicha qiymatni olish
+Yangi juftlik qo‘sh
+Kalitni o‘chir
+Lug‘at uzunligini top
+Kalit bor yoki yo‘qligini tekshir
+Ikki lug‘atni birlashtir
+Barcha qiymatlarni 2 ga ko‘paytir (son bo‘lsa)
+Barcha qiymatlar yig‘indisini top
+Eng katta qiymatni top
+Eng kichik qiymatni top
+Kalitlarni ro‘yxatga o‘tkaz
+Qiymatlarni ro‘yxatga o‘tkaz
+Lug‘atni tozalab yubor
+🟡 O‘RTACHA (16–35)
+Qiymatlar o‘rtachasini top
+Faqat musbat qiymatlarni qoldir
+Faqat juft qiymatlarni qoldir
+Qiymat bo‘yicha sort qil
+Kalit bo‘yicha sort qil
+Eng ko‘p ishlatilgan qiymatni top
+Ma’lum qiymatga ega kalitlarni top
+Qiymatlarni kvadratga oshir
+Ikki lug‘atdan umumiy kalitlarni top
+Ikki lug‘atdan farqli kalitlarni top
+Lug‘atni teskari qil (key ↔ value)
+String qiymatlarni katta harfga o‘tkaz
+Faqat string qiymatlarni ajrat
+Qiymat uzunligi eng kattasini top
+Kalit uzunligi eng kichigini top
+Qiymatlar yig‘indisi ma’lum sondan kattami tekshir
+Kalitlar ichida so‘z borligini tekshir
+Bo‘sh qiymatlarni olib tashla
+Qiymatlar ichida manfiy borligini tekshir
+Har bir kalitga index biriktir
+🔴 QIYINROQ (36–50)
+Qiymat chastotasini hisobla
+Eng ko‘p takrorlangan qiymatni top
+Nested dictionary ichidan ma’lumot olish
+Nested dictionary ichida yangi qiymat qo‘sh
+Nested dictionary ichida kalitni o‘chir
+Dictionaryni flatten qilish
+Qiymatlar bo‘yicha guruhlash
+Bir xil qiymatli kalitlarni jamlash
+Kalitlarni prefix bo‘yicha ajratish
+Dictionarydan faqat ma’lum shartdagilarni qoldir
+Qiymatlarning turi bo‘yicha ajrat
+Eng uzun so‘zli qiymatni top
+Lug‘atni deep copy qil
+Kalit va qiymatni tuple ko‘rinishida chiqar
+Dictionarydan JSON format yarat
+
+
+
+
+
+
+pytohn modular - vazifa
+
+
+math_utils.py yarat va ichiga qo‘shish funksiyasi yoz, boshqa faylda import qil
+Moduldan bitta funksiyani chaqir
+Moduldan ikkita funksiyani import qil
+as bilan modul nomini qisqartir
+Modul ichida __name__ == "__main__" ishlat
+Moduldan constant (PI = 3.14) ishlat
+Moduldan funksiya chaqirib hisob-kitob qil
+Bir nechta faylni bitta main.py ga ulash
+Modulni qayta yuklash (reload)
+O‘zing yaratgan moduldan yordam (help) chiqar
+🟡 O‘RTACHA — real foydalanish (11–20)
+Calculator moduli yarat (+ - * /)
+String utils moduli yarat (reverse, count, uppercase)
+List utils moduli yarat (max, min, sum)
+Validator moduli (email, password tekshiruvchi)
+config.py yaratib sozlamalarni saqla
+log moduli yarat (print o‘rniga)
+Bir moduldan boshqasini import qilish
+Package yarat (utils/ papka bilan)
+__init__.py ishlat
+Modullarni circular importdan saqlash
+🔴 QIYINROQ — professional level (21–30)
+Custom math package yarat
+API helper moduli yoz
+File reader moduli yarat
+JSON bilan ishlovchi modul
+Error handler moduli yoz
+CLI tool moduli yoz
+Settings manager moduli
+Modular mini project (todo app)
+Test moduli yoz (unittest)
+Modullarni real Django projectga ulash

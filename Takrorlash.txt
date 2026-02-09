@@ -1,0 +1,77 @@
+CMD nima vazifa bajaradi? 3 ta misol bilan izohla
+Python dasturini CMD orqali qanday ishga tushirishni yozib ber
+O‘zgaruvchi nima? Hayotiy misol bilan tushuntir
+Nima uchun o‘zgaruvchilarga nom beramiz?
+Integer data type nima? Misol keltir
+Float nima va qachon ishlatiladi?
+String nima? 3 ta misol yoz
+Boolean nima? Qayerda ishlatilishini tushuntir
+Qaysi data type qaysi vaziyatda qulayligini yoz
+Ismni string sifatida saqlash qanday bo‘ladi — tushuntir
+Yoshni qaysi data type’da saqlash to‘g‘ri? Nega?
+Narx (pul) uchun qaysi data type ishlatiladi?
+True va False hayotiy misol bilan tushuntir
+Bir o‘zgaruvchi ichidagi ma’lumot turini nima uchun bilish muhim?
+.upper() nima qiladi?
+.lower() qachon kerak bo‘ladi?
+.title() nima uchun ishlatiladi?
+.strip() nima vazifa bajaradi?
+.replace() qayerda foydali?
+Ismni katta harflarga aylantirish vazifasini tushuntir
+So‘z ichidagi bo‘sh joylarni olib tashlash qanday foyda beradi?
+Matndagi bir so‘zni boshqasiga almashtirishga misol o‘ylab top
+Foydalanuvchi noto‘g‘ri katta-kichik harf kiritsa qanday to‘g‘rilash mumkinligini tushuntir
+String methodlar real loyihada qayerda ishlatilishini yoz
+3 ta o‘zgaruvchi yaratib har biriga turli data type moslab yozib tushuntir
+Bitta matn ustida kamida 3 ta string method ishlatish g‘oyasini yoz
+CMD orqali papka ochish nima uchun kerakligini izohla
+Python dasturchi uchun CMD nega muhim?
+Data type noto‘g‘ri tanlansa qanday muammo chiqishi mumkin?
+Ism va yoshni saqlovchi dastur g‘oyasini yozib tushuntir
+Matndan ortiqcha probellarni tozalash vazifasini izohla
+Foydalanuvchi kiritgan so‘zni katta harfga aylantirish g‘oyasini yoz
+True/False orqali tekshiruv qanday ishlashini tushuntir
+O‘zgaruvchilarni to‘g‘ri nomlash qoidalarini yoz
+Python nima uchun yangi boshlovchilar uchun qulay til?
+String methodsiz matn bilan ishlash qiyinchiliklarini yoz
+CMD bo‘lmasa dasturchi ishida nima qiyinlashadi?
+Har bir data type uchun bittadan real hayot misoli yoz
+Bugun o‘rganganlaringdan eng foydalisi qaysi biri — izohla
+
+vazifalar
+
+Ismni saqlaydigan o‘zgaruvchi yarat va uni ekranga chiqar
+Yoshni integer ko‘rinishida saqlab chiqar
+Ikki ta son yaratib ularning yig‘indisini chiqar
+Matn yarat va uni hamma harfini katta qilib chiqar
+Matn yarat va uni hamma harfini kichik qilib chiqar
+
+Foydalanuvchidan ism olib, uni title ko‘rinishiga keltirib chiqar
+Matnning boshidagi va oxiridagi bo‘sh joylarni olib tashlab chiqar
+Bir so‘z ichidagi bir harfni boshqa harfga almashtir
+Boolean o‘zgaruvchi yaratib ekranga chiqar
+Ism va yoshni alohida o‘zgaruvchida saqlab bitta gap qilib chiqar
+Foydalanuvchidan ism va familiya olib, hammasini katta harf qilib chiqar
+
+Foydalanuvchidan matn olib:
+boshidagi va oxiridagi bo‘sh joylarni olib tashla
+keyin title ko‘rinishga keltirib chiqar
+
+Foydalanuvchidan 2 ta son olib:
+yig‘indisini chiqar
+ayirmasini chiqar
+
+Matn yarat va undagi barcha "a" harflarini "o" ga almashtir
+Foydalanuvchi kiritgan so‘z uzunligini chiqar
+
+Foydalanuvchidan ism olib:
+kichik harfga o‘tkaz
+keyin katta harfga o‘tkaz
+ikkalasini ham chiqar
+Matn ichida nechta bo‘sh joy borligini aniqlab chiqar
+
+Foydalanuvchidan gap olib, uni barcha harflarini katta qilib chiqar va nechta harf borligini ko‘rsat
+Ism o‘zgaruvchisi bo‘sh yoki bo‘sh emasligini Boolean orqali tekshir
+Foydalanuvchi kiritgan so‘z ichida ma’lum bir harf bor yoki yo‘qligini tekshir
+
+

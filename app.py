@@ -216,4 +216,72 @@
 # print("Hamma harfni kichkina :" , code_Bug)
 
 # 4 - vazifa
-name = str(input("Isminingizni kiriting :"))
+# name = str(input("Isminingizni kiriting :"))
+# code_New = f"Hello {name.upper()}"
+# print(code_New)
+
+# 5 - vazifa
+# new_Soz = "Muhammad Umar is very clear"
+# full_Code = new_Soz[0]
+# print(full_Code)  
+
+
+# 6 - vazifa
+# new_Soz = "Muhammad Umar is very clear"
+# full_Code = new_Soz[-1]
+# print(full_Code) 
+
+# 7 - vazifa
+# ism = input("Bironta soz kiritning :")
+# app = len(ism)
+# print("Mana shuncha harf bor :" , app)
+
+
+# 8 - vazifa
+# new_Text = str(input("Bironta matn kiritng :"))
+# rev = new_Text[::-1]    
+# print(rev)
+
+# 2 - usuli
+# new_Text = str(input("Bironta matn kiritng :"))
+# teskari = "".join(reversed(new_Text))
+# print(teskari)
+
+# 9 -vazifa
+# new_Text = str(input("So'z kiritning :"))
+# siz_quiz = str(input("Siz qaysi harfni sanamoqchisiz : "))
+# new_Code = new_Text.count(siz_quiz)
+# print(f"Bu yerda {new_Code} marta ishlatilgan")
+
+# 10 - vazifa
+# new_userName = str(input("Siz username kriting :"))
+# new_Full = new_userName.replace(" " , "_")
+# new_line = new_Full.lower()
+# print("Sizning usernameiningiz :" , new_line)
+
+# 11 - vazifa
+# new_tehno = "1212 Salom"
+# new_Code = new_tehno.startswith(new_tehno)
+# print(new_Code)
+
+# Startswith - bu faqat matni bosh soz bilan boshlansa True yoki False qaytaradi
+# print("Salom hwllo world 3121".startswith("Salom"))
+
+# a = "Python is very clear boy"
+# b = a.startswith("Python")
+# print(b)
+
+# endwith - matnda so'z bila tugaydiga bolsa true youki false
+# new_words = "Siz juda aqili inson ekasiz hey 1212"
+# code = new_words.endswith("212123")
+# print(code)
+
+
+# a = "Salom juda aclisdjsids dsdjsds"
+# b = a.find("s")
+# print(b)
+
+
+# a = "Salom juda aclisdjsids dsdjsds"
+# b = a.count("s")
+# print(b)

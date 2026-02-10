@@ -4,26 +4,22 @@
 
 #string uyga vazifa
 
-#1. Matn uzunligini qaytaradigan funksiya yoz
+# 1. Matn uzunligini qaytaradigan funksiya yoz
 # 2. Matnni katta harflarga o‘tkaz
 # 3. Matnni kichik harflarga o‘tkaz
 # 4. Ismni qabul qilib "Salom ISM" ko‘rinishida chiqar
 # 5. Matnning birinchi harfini qaytar
 # 6. Matn oxirgi harfini qaytar
-# 7. Matnda nechta belgi borligini hisobla (bo‘shliq bilan)
-# 8. Matnni teskari qilib qaytar
+# 7. Matnda nechta harf borligini hisobla (bo‘shliq bilan)
+# 8. Matnni teskari qilib qaytar ::-1
 # 9. Matnda nechta so‘z borligini top
 # 10 Matnda berilgan harf nechta ekanini sanab ber
-# 11 Matn palindrome ekanini tekshir
-# 12 Matndan faqat raqamlarni ajratib ol
-# 13 Matnda bo‘shliqlarni _ bilan almashtir
-# 14 Matn ichida berilgan so‘z bor yoki yo‘qligini tekshir
-# 15 Matndagi eng uzun so‘zni top
-# 16 Har bir so‘zning birinchi harfini katta qil
-# 17 Takrorlangan harflarni olib tashla
-# 18 Matnni camelCase ga o‘tkaz (hello world → helloWorld)
-# 19 Eng ko‘p ishlatilgan harfni top
-# 20 Matndan email formatini ajratib ol
+# 11 Matnda bo‘shliqlarni _ bilan almashtir
+# 12 Matn ichida berilgan so‘z bor yoki yo‘qligini tekshir
+# 13 Har bir so‘zning birinchi harfini katta qil
+# 14 Takrorlangan harflarni olib tashla
+# 15 Matnni camelCase ga o‘tkaz (hello world → helloWorld)
+
 
 
 

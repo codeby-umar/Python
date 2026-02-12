@@ -1,9 +1,13 @@
-
-
-
-
 #string uyga vazifa
 
+1 - Foydalanuvchidan matn so‘rab, uni katta harflarga (upper()) aylantirish.
+2 - Foydalanuvchidan matn so‘rab, uni kichik harflarga (lower()) aylantirish.
+3 - Foydalanuvchidan matn so‘rab, bo‘sh joylarni olib tashlash (strip()).
+4 - Foydalanuvchidan matn so‘rab, so‘zlar sonini chiqarish (split() va len()).
+5 - Foydalanuvchidan matn so‘rab, replace() yordamida bir harfni boshqa harfga o‘zgartirish.
+6 - Foydalanuvchidan matn so‘rab, capitalize() yordamida birinchi harfni katta qilish.
+7 - Foydalanuvchidan matn so‘rab, count() yordamida berilgan harf nechta borligini aniqlash.
+8 - Foydalanuvchidan matn so‘rab, title() yordamida har bir so‘zni katta harf bilan chiqarish.
 # 1. Matn uzunligini qaytaradigan funksiya yoz
 # 2. Matnni katta harflarga o‘tkaz
 # 3. Matnni kichik harflarga o‘tkaz
@@ -409,3 +413,5 @@ Settings manager moduli
 Modular mini project (todo app)
 Test moduli yoz (unittest)
 Modullarni real Django projectga ulash
+
+

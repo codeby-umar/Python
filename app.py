@@ -288,3 +288,10 @@
 
 
 
+# sum = float(input("Son kiriting :"))
+# sum1 = float(input("Son kiriting :"))
+# code_Full = sum + sum1
+# print("Yig'indisi :" , code_Full)
+
+
+

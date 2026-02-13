@@ -415,3 +415,207 @@ Test moduli yoz (unittest)
 Modullarni real Django projectga ulash
 
 
+
+
+Object orinted - vazifalar 
+
+
+Student nomli class yarating (name, age)
+Car class yarating (brand, year)
+Book class yarating va object yarating
+Dog class yarating, bark() metodi qo‘shing
+Phone class yarating (model, price)
+User class yarating va say_hello() metodi yozing
+Laptop class yarating va objectni print qiling
+Teacher class yarating (name, subject)
+Movie class yarating va 2 ta object yarating
+Account class yarating (username, password)
+BankAccount class → balance bo‘lsin
+deposit() metodi yozing
+withdraw() metodi yozing
+Person class → introduce() metodi
+Rectangle class → area() hisoblasin
+Circle class → area() yozing
+Employee → get_salary() metodi
+Product → apply_discount() metodi
+Counter → increment() metodi
+Car → change_color() metodi
+Animal class yarating
+Dog class Animal dan meros olsin
+Cat class ham meros olsin
+Vehicle → Car subclass yarating
+Person → Student subclass yarating
+Polymorphism & Advanced
+Animal da make_sound() metodi yozing
+Dog va Cat da override qiling
+Shape class → area() method
+Rectangle va Circle da override qiling
+3 ta turli class yarating va loop orqali area() ni chaqiring
+
+
+
+
+
+if else elif - vazifalar 
+
+Son musbat yoki manfiy ekanini aniqlang.
+Son juft yoki toq ekanini tekshiring.
+Son 10 dan katta yoki kichikligini tekshiring.
+Yosh 18 dan katta bo‘lsa “Ruxsat”, aks holda “Ruxsat yo‘q”.
+Parol "1234" bo‘lsa “To‘g‘ri”, aks holda “Xato”.
+Son 0 ga tengmi yo‘qmi tekshiring.
+Harf unli yoki undosh ekanini aniqlang.
+Ball 60 dan katta bo‘lsa “O‘tdi”, aks holda “Yiqildi”.
+Ikki sondan kattasini chiqaring.
+Son 100 ga tengmi tekshiring.
+Son 3 ga bo‘linadimi tekshiring.
+Son 5 ga bo‘linadimi tekshiring.
+Son 3 va 5 ga bir vaqtda bo‘linadimi.
+Foydalanuvchi kiritgan oy raqamiga qarab faslni aniqlang.
+Login "admin" bo‘lsa xush kelibsiz deyilsin.
+Harorat 0 dan past bo‘lsa “Sovuq”.
+3 ta sondan kattasini toping.
+Son 1–100 oralig‘idami tekshiring.
+Talabaning bahosiga qarab: 90+ → A, 80+ → B, 70+ → C.
+Soat 6–12 oralig‘ida bo‘lsa “Good morning”.
+Son musbat va juftmi?
+Yosh 18–30 oralig‘idami?
+Parol uzunligi 8 dan katta bo‘lsa qabul qilinsin.
+Son 10 va 50 oralig‘idami?
+Email ichida "@" borligini tekshiring.
+Son 100 dan katta va 2 ga bo‘linadimi?
+BMI hisoblab ozg‘in/normal/semiz aniqlang.
+Ball 0–100 oralig‘idami tekshiring.
+Son 7 ga bo‘linadimi?
+Haftaning kuniga qarab dam olish yoki ish kuni aniqlang.
+Kalkulyator ( +, -, *, / ) if–else bilan yozing.
+Valyuta kursiga qarab USD → UZS hisoblang.
+Uchburchak teng tomonli/teng yonli/turli tomonli aniqlang.
+Yil kabisa yilmi tekshiring.
+Son palindrommi tekshiring.
+Uchta login urinishidan keyin blok qiling.
+Chegirma: 100$ dan katta bo‘lsa 10% chegirma.
+Bank balansida yetarli mablag‘ bormi tekshiring.
+Ballar o‘rtachasiga qarab baho chiqaring.
+4 xonali sonmi tekshiring.
+Son tub sonmi tekshiring.
+Parol kuchlimi (harf + raqam + uzunlik)?
+Kredit olish mumkinmi (yosh > 21 va ish joyi bor)?
+Mashina tezligi 100 dan oshsa jarima.
+Internet paketi yetarlimi (MB tekshirish).
+2 ta sana ichidan kattasini aniqlang.
+Oylik > 5 mln bo‘lsa soliq 12%, aks holda 8%.
+ATM PIN 3 marta xato bo‘lsa blok.
+Son Fibonacci ketma-ketligiga kiradimi?
+Foydalanuvchi roli: admin/user/guest — har xil xabar chiqaring.
+
+
+
+
+
+While - vazifa
+
+
+1 dan 10 gacha sonlarni chiqaring
+1 dan 20 gacha juft sonlarni chiqaring
+1 dan 20 gacha toq sonlarni chiqaring
+10 dan 1 gacha kamayib chiqaring
+1 dan 100 gacha yig‘indini toping
+1 dan N gacha sonlarni chiqaring
+N dan 1 gacha chiqaring
+5 karra jadvalini chiqaring
+1 dan 50 gacha 3 ga bo‘linadigan sonlar
+1 dan 100 gacha 5 ga bo‘linadigan sonlar
+100 dan 1 gacha 2 qadam bilan kamaytiring
+1 dan 100 gacha kvadratlarini chiqaring
+1 dan 20 gacha kubini chiqaring
+1 dan 100 gacha faqat musbat sonlarni chiqaring
+Foydalanuvchi 0 kiritsaguncha son so‘rab boring
+Foydalanuvchi manfiy son kiritsaguncha davom eting
+Parol to‘g‘ri kiritilmaguncha so‘rash
+1 dan N gacha sonlar yig‘indisi
+1 dan N gacha juftlar yig‘indisi
+1 dan N gacha toqlar yig‘indisi
+Sonning faktorialini hisoblang
+Sonning raqamlar yig‘indisini toping
+Sonni teskari chiqaring (123 → 321)
+Son palindrommi tekshiring
+N gacha tub sonlarni chiqaring
+Fibonacci ketma-ketligini N gacha chiqaring
+Son nechta xonali ekanini aniqlan
+Raqamlar ko‘paytmasini toping
+Sonni ikkilik sanoq sistemasiga o‘tkazin
+1 dan N gacha 7 ga bo‘linadiganlar
+Foydalanuvchi 5 ta son kiritsin, o‘rtachasini toping
+Eng katta sonni toping (kiritish orqali)
+Eng kichik sonni toping
+Foydalanuvchi “exit” yozmaguncha davom eting
+Bank balansidan pul yechish (balans tugamaguncha)
+1 dan N gacha kvadratlar yig‘indisi
+N sonining bo‘luvchilarini chiqaring
+Son mukammal sonmi tekshiring
+Son Armstrong sonmi tekshiring
+Parol 3 marta xato kiritilsa to‘xtating
+1 dan 100 gacha faqat juft va 3 ga bo‘linadiganlar
+1 dan 100 gacha 3 va 5 ga bo‘linadiganlar
+1 dan N gacha 10 dan katta sonlar
+100 dan 1 gacha 5 qadam bilan kamaytirish
+Kalkulyator (exit yozilmaguncha)
+Har bir raqamni alohida chiqarish
+Son ichida 0 borligini tekshirish
+Raqamlar orasidan eng kattasini topish
+Son 2 ning darajasimi tekshirish
+Sonni rim raqamiga o‘tkazish (oddiy
+Foydalanuvchi 0 kiritsaguncha yig‘indi topish
+N gacha sonlarning ko‘paytmasi
+1 dan N gacha faqat tub sonlar yig‘indisi
+Sonni 2 ga bo‘lib borish 1 gacha
+N sonining kvadrat ildizini taxminiy topish
+1 dan N gacha Fibonacci yig‘indisi
+Har bir belgini alohida chiqarish
+Matn ichida nechta harf borligini sanash
+Matn ichida nechta unli borligini sanash
+Foydalanuvchi to‘g‘ri javob berguncha savol berish
+Guess the number o‘yini
+Tasodifiy son topish o‘yini
+Bankomat tizimi (PIN tekshirish)
+1 dan N gacha Armstrong sonlar
+1 dan N gacha mukammal sonlar
+Collatz ketma-ketligi
+N gacha 2 ning darajalari
+Raqamlar ichida takrorlanuvchi borligini tekshirish
+Sonni oktal sistemaga o‘tkazish
+Sonni hexadecimalga o‘tkazish
+So‘z teskari yozish
+Matn palindrommi tekshirish
+Foydalanuvchi balas 0 bo‘lguncha xarid qilish
+Cheksiz menu tizimi
+Har bir kiritilgan sonni ro‘yxatga qo‘shish (0 gacha)
+O‘rtacha balni hisoblash (exit gacha)
+Raqamlarni tartiblash (oddiy usul bilan)
+N sonining eng katta bo‘luvchisi
+Sonni binar ko‘rinishda teskari chiqarish
+Foydalanuvchi to‘g‘ri PIN kiritmaguncha davom etish
+1 dan N gacha tub sonlar sonini hisoblash
+Fibonacci ichida N son borligini tekshirish
+Son kvadrat sonmi tekshirish
+Son mukammal kvadratmi
+Sonni bo‘luvchilar sonini topish
+1 dan N gacha barcha sonlarning raqamlar yig‘indisi
+N gacha eng katta tub son
+Matndagi har bir harfni sanash
+Parol kuchlimi tekshirish (while bilan)
+ATM 3 urinishdan keyin blok
+Bank kredit tekshirish (shart bilan)
+Collatz nechta qadamda 1 ga keladi
+Sonni faktorlarga ajratish
+Sonni 10 likdan 3 lik sanoq sistemasiga o‘tkazish
+Fibonacci ichida N-chi element
+1 dan N gacha kvadrat ildizlar yig‘indisi
+Son Armstrong sonlar orasidami
+Cheksiz kalkulyator (while True)
+Mini shop system (exit gacha)
+Mini bank system (menu bilan)
+
+
+

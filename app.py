@@ -295,3 +295,34 @@
 
 
 
+# n = 3.14 
+# radius = float(input("Siz radius kiriting :"))
+# full_Code = n * (radius ** 2)
+# print("Aylananing yuzi : " , full_Code)
+
+
+# new_Words = input("Siz bironta narsa kiritng :")
+# new_Word = input("Siz so'z kiriting :")
+# full_Code = new_Words + new_Word
+# print(full_Code)
+
+
+# name = str(input("Sizning ismingiz :"))
+# firstName = str(input("Sizning familyangiz :"))
+# code, code1 = name  , firstName
+# code_Full = f"Sizning ismingiz : {code} Sizing familyangiz : {code1}"
+# print(code_Full)
+
+
+# new_Age = input("Sizning youshingiz :")
+# new_Code = int(new_Age)
+# print("Sizning yoshingiz : " , new_Code)
+
+
+
+# sum = float(input("Son kiriting :"))
+# sum1 = float(input("Son kiriting :"))
+# code_Full = sum + sum1
+# print("Yig'indisi :" , code_Full)
+
+

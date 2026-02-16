@@ -326,3 +326,73 @@
 # print("Yig'indisi :" , code_Full)
 
 
+
+
+
+
+
+
+
+# string methods
+
+ism = "Shukurullo"
+code = ism[3]
+print(code)
+
+
+a , b , c = "Salom" , "Hi" , "Hello"
+print(a)
+
+
+
+name = str("olma")
+print(name)
+
+
+# upper - Hamma harflarni katta qilib beradi 
+# ism = str(input("Ismingiz"))
+# code = ism.upper()
+# print(code)
+
+
+# lower - hamma harfni kichkina qilib beradi
+# python = "Python Is Very Easy"
+# code = python.lower()
+# print(code)
+
+# title - matnda hamma bosh harfini kattada qilib beradi
+# code = "olma , shaftoli , nok"
+# Full = code.title()
+# print(Full)
+
+
+# capitalize - boshidagi bitta sozni katta qilib beradi
+# login = "shiklat@gmail.com"
+# full_Code = login.capitalize()
+# print(full_Code)
+
+
+# replace - matnda keraksiz sozni olib orniga yangi matn qaytaradi
+# login = str(input("Login kiriting :"))
+# full_Code = login.replace("m" , "_")
+# print(full_Code)
+
+
+# len - matnni uzunligini qaytaradi
+# nom = "olma"
+# code = len(nom)
+# print(code)
+
+
+# strip - boshi va ooxiridan joylarni olib beradi
+
+# ism = "   Anvar       "
+# print(ism)
+# code = ism.strip()
+# print(code)
+
+
+
+
+
+

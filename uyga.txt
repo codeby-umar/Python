@@ -8,6 +8,8 @@
 6 - Foydalanuvchidan matn so‘rab, capitalize() yordamida birinchi harfni katta qilish.
 7 - Foydalanuvchidan matn so‘rab, count() yordamida berilgan harf nechta borligini aniqlash.
 8 - Foydalanuvchidan matn so‘rab, title() yordamida har bir so‘zni katta harf bilan chiqarish.
+
+
 # 1. Matn uzunligini qaytaradigan funksiya yoz
 # 2. Matnni katta harflarga o‘tkaz
 # 3. Matnni kichik harflarga o‘tkaz

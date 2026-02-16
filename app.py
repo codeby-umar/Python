@@ -335,18 +335,18 @@
 
 # string methods
 
-ism = "Shukurullo"
-code = ism[3]
-print(code)
+# ism = "Shukurullo"
+# code = ism[3]
+# print(code)
 
 
-a , b , c = "Salom" , "Hi" , "Hello"
-print(a)
+# a , b , c = "Salom" , "Hi" , "Hello"
+# print(a)
 
 
 
-name = str("olma")
-print(name)
+# name = str("olma")
+# print(name)
 
 
 # upper - Hamma harflarni katta qilib beradi 
@@ -394,5 +394,60 @@ print(name)
 
 
 
+"""1 - vazifa"""
+# street = "Guliston"
+# mahalla = "Manak"
+# city = "Andijon"
+# tuman = "Xo'jabod"
+# full_Code = f"{city} viloyati {tuman} tumani {mahalla} qishlog'i {street} ko'chasi"
+# print(full_Code)
+"""2 - vazifa"""
+"""Siz uchun mahalla va qishloginingni royxatga olamisz"""
+# kocha = str(input("Sizning kochangiz :"))
+# qishlog = str(input("Sizning qishlog'ingiz : "))
+# tuman = str(input("Sizning tumaningiz :"))
+# shahar = str(input("Sizning shaxaringiz :"))
+# data = f"Sizning ko'chaningiz : {kocha} Sizning qishloginingiz : {qishlog} \
+# Sizning tumaningiz : {tuman} Sizning shahariningiz : {shahar}"
+# print(data)
+"""3 - vazifa"""
 
+# value_Type = input("Biron narsa kiriting :")
 
+# if type(value_Type) == int:
+#     print("Bu yozgan data type : number yani integer")
+# elif type(value_Type) == str:
+#     print("Bu yozgan data type : string")
+# elif type(value_Type) == float:
+#     print("Bu yozgan data type : Float")
+# else:
+#     print("____Error____")
+
+"""4 - vazifa"""
+# ism = str(input("Sizing ismingiz : "))
+# login = str(input("Sizning loginingiz :"))
+# password = input("Sizning passwordningiz :")
+
+# if len(password) > 8:
+#     print(f"--------------------Hello {ism.capitalize()}-------------------------")
+#     print(f"Sizning passwordiningiz {len(password)} tadan kichik maximum 8 bolish kerak")
+#     print(f"Sizning loginingiz : {login.replace(" " , "@gmail.com").lower() }")
+#     print("---------------------------------------------")
+# elif len(password) == 8:
+#     print(f"--------------------Hello {ism.capitalize()}-------------------------")
+#     print(f"Sizning paroliningiz togri  {len(password)}! Saytga xush kelibsiz")
+#     print(f"Sizning loginingiz : {login.replace(" " , "@gmail.com").lower() }")
+#     print("---------------------------------------------")
+# else:
+#     print("---------------------Error------------------------")
+#     print(f'Sizni parolingiz 8 tadan kam {len(password)} ta ')
+#     print(f"Sizning loginingiz : {login.replace(" " , "@gmail.com").lower() }")
+#     print("---------------------------------------------")
+
+"""5 - vazifa"""
+
+# name = str(input("Ismingizni kkiriting : "))
+# replaces = name.replace(" " , "").lower()
+# value = len(replaces)
+# full_Code = f"Sizning ismingiz : {name} , {replaces} ismingizda  {value} harfdan iborat"
+# print(full_Code)

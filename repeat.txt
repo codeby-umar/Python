@@ -1,0 +1,40 @@
+Foydalanuvchidan ismini olib, salomlashuvchi dastur tuzing.
+Foydalanuvchidan yoshini olib, 5 yildan keyingi yoshini chiqaring.
+Ikkita son olib, ularning yig‘indisini chiqaring.
+Ikkita son olib, ayirmasini chiqaring.
+Ikkita son olib, ko‘paytmasini chiqaring.
+Foydalanuvchidan son olib, uni int tipiga o‘tkazing va tipini tekshiring.
+Foydalanuvchidan haqiqiy son olib, float tipida ekanligini ko‘rsating.
+Ism va familiya olib, ularni bitta satrga birlashtiring.
+Foydalanuvchidan son olib, uning kvadratini hisoblang.
+Foydalanuvchidan son olib, uning kubini hisoblang.
+Foydalanuvchidan tug‘ilgan yilini olib, yoshini aniqlang.
+Matn kiriting va uning uzunligini aniqlang.
+Son kiriting va uning tipini chiqaring.
+sm kiriting va bosh harfini chiqaring.
+Matn kiriting va hammasini katta harfga o‘tkazing.
+Matn kiriting va hammasini kichik harfga o‘tkazing.
+Ikkita matn kiriting va ularni orasiga bo‘sh joy qo‘shib birlashtiring.
+Foydalanuvchidan narx va sonini olib, umumiy summani hisoblang.
+Doira radiusini kiriting va yuzini hisoblang.
+To‘g‘ri to‘rtburchak tomonlarini kiriting va yuzini toping.
+Son kiriting va uni string tipiga o‘tkazing.
+Foydalanuvchidan ism va yosh olib, formatlangan gap chiqaring.
+Sekund kiriting va uni minutga aylantiring.
+Kilogramm kiriting va grammga aylantiring.
+2 ta haqiqiy son kiriting va ularni taqqoslang (katta/kichik).
+Butun son kiriting va uni float ga o‘tkazing.
+Haqiqiy son kiriting va uni int ga o‘tkazing.
+Sekund kiriting va uni minutga aylantiring.
+Kilogramm kiriting va grammga aylantiring.
+2 ta haqiqiy son kiriting va ularni taqqoslang (katta/kichik).
+Foydalanuvchidan to‘liq ism kiriting va ism hamda familiyani alohida ajrating.
+Matn kiriting va undagi belgilar sonini aniqlang (bo‘sh joy bilan).
+Matn kiriting va nechta unli harf borligini aniqlang.
+Son kiriting va uni teskari ko‘rinishda chiqaring (masalan 123 → 321).
+Foydalanuvchidan 4 ta son olib, eng kattasini aniqlang.
+Haroratni Celsius’da kiriting va Fahrenheit’ga aylantiring.
+Soat kiriting va uni sekundga aylantiring.
+Ism kiriting va u nechta harfdan iboratligini aniqlang (bo‘sh joysiz).
+Parol kiriting va uning uzunligi 8 dan katta yoki kichikligini tekshiring.
+Foydalanuvchidan son kiriting va u int, float yoki string ekanini aniqlovchi dastur yozing.

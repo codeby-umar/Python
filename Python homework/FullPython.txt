@@ -1,0 +1,462 @@
+Ismingizni o‘zgaruvchiga saqlang va chop eting.
+
+Yoshni o‘zgaruvchiga saqlab, 5 yil keyingi yoshni chiqaring.
+
+Ikki sonni o‘zgaruvchiga saqlab, yig‘indisini chiqaring.
+
+Ikki son ayirmasini hisoblang.
+
+Ko‘paytma hisoblang.
+
+Bo‘linma hisoblang.
+
+Butun va haqiqiy son farqini ko‘rsating.
+
+String va int tipini tekshiring.
+
+input() orqali ism oling.
+
+input() orqali son olib kvadratini hisoblang.
+
+Tug‘ilgan yilni olib yoshni aniqlang.
+
+3 ta son olib o‘rtacha toping.
+
+float tipida son olib 2 ga ko‘paytiring.
+
+int → float o‘tkazing.
+
+float → int o‘tkazing.
+
+string uzunligini aniqlang.
+
+stringni katta harfga o‘tkazing.
+
+stringni kichik harfga o‘tkazing.
+
+ikki stringni birlashtiring.
+
+f-string ishlatib gap tuzing.
+
+Sonning kubini hisoblang.
+
+Doira yuzini hisoblang.
+
+To‘rtburchak yuzini toping.
+
+1 dan 10 gacha sonlarni chiqaring.
+
+Sonni teskari yozing.
+
+Sonning raqamlar yig‘indisini toping.
+
+Parol uzunligini tekshiring.
+
+Sekundni minutga aylantiring.
+
+Kilogrammni grammga aylantiring.
+
+Celsius → Fahrenheit aylantiring.
+Foydalanuvchi 3 ta fan bahosini kiritsin. Agar o‘rtacha ≥ 86 bo‘lsa “Grant”, 71–85 bo‘lsa “Kontrakt”, 56–70 bo‘lsa “Super kontrakt”, <56 bo‘lsa “Yiqildi” deb chiqaring.
+
+Ishchining oyligi kiritiladi. Agar 5 mln dan yuqori bo‘lsa 12% soliq, 3–5 mln oralig‘ida 8%, 3 mln dan past bo‘lsa 5% soliq hisoblang. Sof oylikni chiqaring.
+
+3 ta son kiriting. Agar uchalasi teng bo‘lsa “Teng”, ikkitasi teng bo‘lsa “Qisman teng”, hammasi har xil bo‘lsa “Har xil” deb chiqaring.
+
+Uchburchak tomonlari beriladi. U teng tomonli, teng yonli yoki turli tomonli ekanini aniqlang.
+
+Uchburchak mavjud yoki yo‘qligini tekshiring (a + b > c qoidasi).
+
+Parol tekshirish:
+
+Kamida 8 belgi
+
+Kamida 1 katta harf
+
+Kamida 1 raqam
+
+Kamida 1 maxsus belgi
+Qaysi shart bajarilmaganini alohida ayting.
+
+Foydalanuvchi yosh va jins kiritsin. Harbiy xizmat majburiy yoki yo‘qligini aniqlang.
+
+Oy raqami beriladi. Faslni aniqlang va nechta kun borligini ham chiqaring.
+
+Soat (0–23) kiritiladi. “Tong”, “Kun”, “Kechqurun”, “Tun” deb ajrating.
+
+Login va parol tekshiring. 3 marta noto‘g‘ri kiritsa blok qiling.
+
+4 ta son ichidan eng kattasini if ishlatib toping (max ishlatmasdan).
+
+Elektr energiyasi hisoblagich:
+
+200 kWh gacha — 450 so‘m
+
+201–500 — 650 so‘m
+
+500+ — 800 so‘m
+Umumiy to‘lovni hisoblang.
+
+Ball tizimi: 0–100 oralig‘ida kiritilgan ballni A, B, C, D, F ga ajrating.
+
+Kredit berish tizimi: yosh ≥ 21 va oylik ≥ 4 mln bo‘lsa kredit tasdiqlansin.
+
+5 xonali son kiritiladi. Palindrom ekanini tekshiring.
+
+3 ta sonni tartiblash (if orqali).
+
+Yil kiritiladi. Kabisa yil ekanini aniqlang.
+
+Internet tezligi bo‘yicha tarif tanlash tizimi yozing.
+
+BMI (tana massasi indeksi) hisoblang va natijani kategoriyaga ajrating.
+
+Avtomobil tezligi kiritiladi. 60 dan oshsa jarima hisoblang (har 10 km uchun 50 ming).
+
+Foydalanuvchi 2 ta vaqt kiritsin (soat:minut). Qaysi biri katta ekanini aniqlang.
+
+4 xonali son kiriting. Barcha raqamlari har xilmi tekshiring.
+
+Sana kiriting (kun, oy, yil). To‘g‘ri sana yoki noto‘g‘ri ekanini tekshiring.
+
+Parol kuchlilik darajasini baholang: Weak / Medium / Strong.
+
+Bank balansini tekshiring. Pul yechishda minusga tushmasin.
+
+3 ta burchak beriladi. Uchburchak hosil bo‘ladimi tekshiring.
+
+Telefon raqami formatini tekshiring (+998 bilan boshlanishi).
+
+Chegirma tizimi: 1 mln dan oshsa 10%, 5 mln dan oshsa 20%.
+
+Foydalanuvchi 3 marta son kiritadi. Eng kattasini chiqaring.
+
+O‘quvchi 5 ta fan kiritsin. Yiqilgan fan bo‘lsa stipendiya bermang.
+
+🔵 81–110 — Loop bilan kuchli masalalar
+
+1 dan N gacha barcha tub sonlarni chiqaring.
+
+N gacha Fibonacci chiqaring.
+
+10 ta son ichidan manfiylarini sanang.
+
+Sonni raqamlariga ajratib yig‘indisini toping.
+
+Sonni teskari qilib chiqaring.
+
+Armstrong sonini aniqlang.
+
+1 dan 1000 gacha mukammal sonlarni toping.
+
+Foydalanuvchi 0 kiritmaguncha son qabul qiling va o‘rtachasini toping.
+
+N gacha barcha 3 va 5 ga bo‘linadigan sonlarni toping.
+
+1 dan N gacha kvadratlar yig‘indisini toping.
+
+10 ta parol kiritiladi. Eng uzunini toping.
+
+Matn ichida nechta unli borligini sanang.
+
+100 ta random son ichidan eng kattasini toping.
+
+Sonni binary ko‘rinishga o‘tkazing (algoritm bilan).
+
+N x N yulduzli kvadrat chizing.
+
+Piramida pattern chizing.
+
+Teskari piramida chizing.
+
+1 dan N gacha faktoriallar ro‘yxatini chiqaring.
+
+10 ta son ichidan faqat juftlarini chiqarish.
+
+Cheklangan urinishli son topish o‘yini yozing.
+
+101–110:
+
+Caesar shifrlash
+
+Fibonacci tekshirish
+
+Tub sonlar ro‘yxati
+
+Palindrom sonlar
+
+Eng katta raqam
+
+Raqamlar ko‘paytmasi
+
+List ichida list sanash
+
+Takroriy elementlarni topish
+
+2 ta listni kesishmasi
+
+2 ta listni birlashtirish
+
+🔴 111–150 — Fikrlashni sindiradigan masalalar
+
+1 dan N gacha bo‘lgan sonlar ichidan 7 ga bo‘linadigan va 5 ga bo‘linmaydigan sonlarni toping.
+
+6 xonali son kiriting. O‘rta 2 raqamini chiqarib tashlang.
+
+Son ichidagi eng katta raqamni toping.
+
+Son ichidagi eng kichik raqamni toping.
+
+Matndan faqat katta harflarni ajrating.
+
+Matndan faqat raqamlarni ajrating.
+
+Matn ichidagi eng uzun so‘zni toping.
+
+So‘zlar sonini aniqlang.
+
+So‘zlarni uzunligiga qarab saralang.
+
+Listni built-in sort ishlatmasdan saralang.
+
+121–150:
+
+Bubble sort yozing
+
+Selection sort yozing
+
+Insertion sort yozing
+
+2D list ustida ishlash
+
+Matrix qo‘shish
+
+Matrix ko‘paytirish
+
+Diagonal yig‘indi
+
+Bank tizimi mini loyiha
+
+ATM tizimi
+
+Login tizimi
+
+Quiz tizimi
+
+Student ranking
+
+Shopping cart
+
+Inventory tizimi
+
+Parol generator
+
+Filedan o‘qib analiz qilish
+
+JSON o‘qish
+
+Dictionary bilan baholash tizimi
+
+Rekursiv faktorial
+
+Rekursiv Fibonacci
+
+Rekursiv binary search
+
+OOP mini bank
+
+OOP mini shop
+
+OOP mini blog
+
+OOP inheritance mashqi
+
+OOP encapsulation mashqi
+
+OOP polymorphism mashqi
+
+OOP student system
+
+OOP ATM
+
+OOP quiz system 
+
+Foydalanuvchi kiritgan matndan eng ko‘p takrorlangan harfni toping.
+
+2 ta list beriladi. Ularning umumiy elementlarini takrorlarsiz qaytaring.
+
+List ichidagi eng uzun stringni toping.
+
+Sonni binary ko‘rinishga o‘tkazing (built-in ishlatmasdan).
+
+2 ta son orasidagi barcha Armstrong sonlarni toping.
+
+List ichidan faqat tub sonlarni ajrating.
+
+Dictionary ichidan qiymati eng katta bo‘lgan kalitni toping.
+
+Matndagi so‘zlarni alfavit bo‘yicha saralang.
+
+Parol kuchlilik darajasini hisoblovchi funksiya yozing (ball tizim bilan).
+
+Foydalanuvchi kiritgan sonni rim raqamiga aylantiring.
+
+Rim raqamni oddiy songa aylantiring.
+
+Matndan takrorlangan so‘zlarni olib tashlang.
+
+2D list ichida maksimal elementni toping.
+
+Matrix diagonal yig‘indisini hisoblang.
+
+Foydalanuvchi kiritgan matn palindrome gapmi tekshiring (bo‘sh joylarsiz).
+
+JSON stringni dictga aylantirib analiz qiling.
+
+List ichidagi juft sonlar kvadratini qaytaring (list comprehension).
+
+100 ta random son ichidan medianani toping.
+
+Matndan barcha maxsus belgilarni tozalang.
+
+Caesar shifrlash va deshifrlash funksiyasini yozing.
+
+🚀 21–60 — Kuchli OOP Mashqlar
+
+BankAccount klassi: balans, deposit, withdraw, history saqlash.
+
+ATM klassi: PIN tekshirish, 3 marta xato bo‘lsa bloklash.
+
+User klassi: username unique bo‘lishi shart.
+
+Product klassi: chegirma hisoblash metodi.
+
+Cart klassi: mahsulot qo‘shish, o‘chirish, umumiy summa.
+
+Library klassi: kitob qo‘shish, ijaraga berish, qaytarish.
+
+Student klassi: GPA hisoblash.
+
+Teacher klassi: fan qo‘shish.
+
+School klassi: student qo‘shish va ro‘yxat saqlash.
+
+Employee klassi: yillik bonus hisoblash.
+
+Car klassi: yoqilg‘i sarfi hisoblash.
+
+Company klassi: xodim qo‘shish va o‘rtacha oylik topish.
+
+Rectangle va Circle klasslari: polymorphism bilan area().
+
+Shape base class va undan meros olish.
+
+Account class: private attribute va getter/setter.
+
+ChatFilter class: yomon so‘zlarni almashtirish.
+
+Quiz class: savol qo‘shish va natija hisoblash.
+
+Inventory class: mahsulot soni kamaytirish.
+
+HotelRoom class: band yoki bo‘shligini tekshirish.
+
+BookingSystem class: xona bron qilish.
+
+EWallet class: tranzaksiya tarixi.
+
+CryptoWallet class: kurs bo‘yicha qiymat hisoblash.
+
+BlogPost class: like va comment qo‘shish.
+
+Comment class: foydalanuvchi bilan bog‘lash.
+
+VotingSystem class: bir user bir marta ovoz berishi.
+
+GameCharacter class: attack, defend, health kamayishi.
+
+RPGGame class: ikki character jang qilishi.
+
+ShopSystem class: user balansdan to‘lov qilish.
+
+FileManager class: fayl o‘qish/yozish metodlari.
+
+Logger class: har amalni logga yozish.
+
+BankSystem mini loyiha (Account, ATM, User).
+
+OnlineShop mini loyiha (Product, Cart, User, Payment).
+
+StudentManagementSystem mini loyiha.
+
+LibraryManagementSystem mini loyiha.
+
+CinemaBookingSystem mini loyiha.
+
+ParkingSystem klassi (mashina joylash).
+
+Elevator class (qavatlar orasida harakat).
+
+TrafficLight class (holat almashish).
+
+SmartHome class (lamp, AC boshqarish).
+
+RestaurantSystem (buyurtma, stol, to‘lov).
+
+💀 61–100 — Qattiq OOP + Algoritm
+
+Bank tizimida foizli omonat hisoblash.
+
+Bir nechta hisoblar orasida pul o‘tkazish.
+
+Exception handling qo‘shish (balans yetarli emas).
+
+Abstract class ishlatib Shape tizimi yozing.
+
+Method overriding misoli yozing.
+
+Dunder method (str, repr) qo‘shing.
+
+Operator overloading misoli yozing.
+
+Singleton pattern yozing.
+
+Factory method pattern yozing.
+
+Strategy pattern oddiy misoli yozing.
+
+OOP bilan to‘liq ATM simulyatori.
+
+OOP bilan to‘liq Quiz platforma.
+
+OOP bilan Chat system.
+
+OOP bilan mini Social Network.
+
+OOP bilan Task Manager.
+
+OOP bilan Expense Tracker.
+OOP bilan Budget Planner.
+OOP bilan Payroll System.
+OOP bilan E-commerce Checkout tizimi.
+OOP bilan Online Course Platform.
+Sorting algoritmlarini class ichida yozing.
+Binary Search class yozing.
+Graph class (adjacency list).
+BFS algoritmi yozing.
+DFS algoritmi yozing.
+Stack class yozing.
+Queue class yozing.
+Priority Queue yozing.
+Linked List class yozing.
+Doubly Linked List yozing.
+HashMap class yozing (basic).
+LRU Cache yozing.
+Mini Database class yozing.
+User authentication system yozing.
+Password hashing tizimi yozing.
+API request simulator class yozing.
+File encryption class yozing.
+Multi-user bank simulation yozing.
+Real-time chat room simulation yozing.
+To‘liq mini ERP tizimi (modullar bilan).

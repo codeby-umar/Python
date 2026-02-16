@@ -1,0 +1,284 @@
+Ikki son qabul qilib, yig‘indisini qaytaradigan funksiya yozing.
+
+Ikki son qabul qilib, ayirmasini qaytaradigan funksiya yozing.
+
+Sonning kvadratini qaytaradigan funksiya yozing.
+
+Sonning kubini qaytaradigan funksiya yozing.
+
+Son juft yoki toq ekanini qaytaradigan funksiya yozing.
+
+Son musbat yoki manfiy ekanini aniqlovchi funksiya.
+
+Uchta sonning o‘rtachasini qaytaradigan funksiya.
+
+Ikki sonning kattasini qaytaradigan funksiya.
+
+Ikki sonning kichigini qaytaradigan funksiya.
+
+Matn uzunligini qaytaradigan funksiya.
+
+Matnni katta harfga o‘tkazadigan funksiya.
+
+Matnni kichik harfga o‘tkazadigan funksiya.
+
+Matnni teskari qilib qaytaradigan funksiya.
+
+Son faktorialini hisoblovchi funksiya.
+
+Doira yuzini hisoblovchi funksiya.
+
+To‘g‘ri to‘rtburchak yuzini hisoblovchi funksiya.
+
+Son 10 ga bo‘linadimi aniqlovchi funksiya.
+
+Son 3 va 5 ga bir vaqtda bo‘linadimi tekshiruvchi funksiya.
+
+Matnda nechta unli harf borligini aniqlovchi funksiya.
+
+Matnda nechta undosh harf borligini aniqlovchi funksiya.
+
+Ismni qabul qilib salomlashuvchi funksiya.
+
+Ikki matnni birlashtiruvchi funksiya.
+
+Parol uzunligini tekshiruvchi funksiya.
+
+Celsius → Fahrenheit aylantiruvchi funksiya.
+
+Kilogram → gramm aylantiruvchi funksiya.
+
+Sekund → minut aylantiruvchi funksiya.
+
+Sonni stringga aylantiruvchi funksiya.
+
+Stringni intga aylantiruvchi funksiya.
+
+3 ta sondan eng kattasini topuvchi funksiya.
+
+3 ta sondan eng kichigini topuvchi funksiya.
+
+Son tub yoki yo‘qligini tekshiruvchi funksiya.
+
+Sonni teskari yozuvchi funksiya (123 → 321).
+
+Matnda bo‘sh joylar sonini aniqlovchi funksiya.
+
+Parolda raqam bor-yo‘qligini tekshiruvchi funksiya.
+
+Parolda katta harf borligini tekshiruvchi funksiya.
+
+Parolda kichik harf borligini tekshiruvchi funksiya.
+
+Ikki sonni joyini almashtiruvchi funksiya.
+
+Sonning modulini qaytaruvchi funksiya.
+
+1 dan N gacha yig‘indini qaytaruvchi funksiya.
+
+1 dan N gacha ko‘paytmani qaytaruvchi funksiya.
+
+Son 2 ning darajasi ekanini tekshiruvchi funksiya.
+
+Matn palindrome ekanini tekshiruvchi funksiya.
+
+Ikki matn tengligini tekshiruvchi funksiya.
+
+Sonning raqamlar yig‘indisini topuvchi funksiya.
+
+Sonning raqamlar ko‘paytmasini topuvchi funksiya.
+
+Matndan barcha raqamlarni ajratuvchi funksiya.
+
+Sonni binary ko‘rinishga o‘tkazuvchi funksiya.
+
+Sonni 5 ga bo‘lish natijasini qaytaruvchi funksiya.
+
+Matn bosh harfini katta qiluvchi funksiya.
+
+4 ta sondan o‘rtachasini qaytaruvchi funksiya.
+
+🟡 51–120 (O‘RTA – Fikr ishlatadigan)
+
+Ikki son orasidagi barcha juft sonlarni qaytaruvchi funksiya.
+
+Ikki son orasidagi barcha tub sonlarni qaytaruvchi funksiya.
+
+Matndan eng uzun so‘zni topuvchi funksiya.
+
+Matndan eng qisqa so‘zni topuvchi funksiya.
+
+Listdagi eng katta elementni topuvchi funksiya.
+
+Listdagi eng kichik elementni topuvchi funksiya.
+
+List o‘rtacha qiymatini topuvchi funksiya.
+
+Listni teskari qilib qaytaruvchi funksiya.
+
+Listdan takroriy elementlarni olib tashlovchi funksiya.
+
+Listni o‘sish tartibida saralovchi funksiya (built-insiz).
+Caesar shifrlash funksiyasi yozing.
+
+Matndan har bir harf nechta qatnashganini hisoblovchi funksiya.
+
+Sudoku qator validatsiya funksiyasi.
+
+Parol kuchlilik darajasini baholovchi funksiya.
+
+Email formatini tekshiruvchi funksiya.
+
+Kredit karta raqamini validatsiya qiluvchi funksiya (Luhn algoritmi).
+
+List ichida listlarni tekislovchi funksiya (flatten).
+
+JSON stringni dictga aylantiruvchi funksiya.
+
+Mini login tizimi funksiyalari.
+
+ATM tizimi funksiyasi (deposit, withdraw, balance).
+Car klassi yarating (brand, model, year) va info() metodi yozing.
+
+Student klassi yarating (name, age, grade) va bahoni chiqaruvchi metod yozing.
+
+BankAccount klassi yarating (balance) va deposit() metodi yozing.
+
+BankAccount uchun withdraw() metodi yozing (balans yetarliligini tekshiring).
+
+Rectangle klassi yarating va area() metod yozing.
+
+Circle klassi yarating va area() metod yozing.
+
+Person klassi yarating va introduce() metodi yozing.
+
+Employee klassini Person dan meros qilib oling va salary qo‘shing.
+
+Animal klassi yarating va speak() metodi yozing.
+
+Dog va Cat klasslarini Animal dan meros qiling.
+
+Book klassi yarating va is_available() metod yozing.
+
+Library klassi yarating va kitob qo‘shish metodini yozing.
+
+Calculator klassi yarating (add, subtract, multiply, divide metodlar).
+
+User klassi yarating va parol tekshiruvchi metod yozing.
+
+Product klassi yarating va chegirma hisoblovchi metod yozing.
+
+ShoppingCart klassi yarating va mahsulot qo‘shish metod yozing.
+
+ShoppingCart uchun umumiy summa hisoblovchi metod yozing.
+
+Teacher klassi yarating va fan qo‘shish metod yozing.
+
+School klassi yarating va o‘quvchi qo‘shish metod yozing.
+
+Mini OOP loyiha: “Online Kurs Tizimi” (Course, Student, Instructor klasslari).
+Bubble sort algoritmini funksiya ko‘rinishida yozing.
+
+Selection sort algoritmini yozing.
+
+Insertion sort algoritmini yozing.
+
+Bubble sortni kamayish tartibida yozing.
+
+Selection sortni kamayish tartibida yozing.
+
+Ikki o‘lchamli listni birinchi element bo‘yicha saralang.
+
+Tuple listni ikkinchi element bo‘yicha saralang.
+
+Stringlar ro‘yxatini uzunligi bo‘yicha saralang.
+
+Listni built-in sort()siz saralang.
+
+Eng tez ishlaydigan sortingni aniqlovchi test yozing.
+
+Quick sort funksiyasi yozing.
+
+Merge sort funksiyasi yozing.
+
+Heap sort funksiyasi yozing.
+
+Counting sort yozing.
+
+Radix sort yozing.
+
+List ichida faqat juft sonlarni saralang.
+
+Dictionary ni qiymati bo‘yicha saralang.
+
+Object listini atribut bo‘yicha saralang.
+
+String ichidagi harflarni alifbo bo‘yicha saralang.
+
+Sorting algoritmlarini taqqoslovchi benchmark yozing.
+
+🎮 171–180 — Mini Game logikasi
+
+Son topish o‘yini funksiyasi (1–100 oralig‘ida).
+
+Cheklangan urinishli taxmin o‘yini yozing.
+
+Random parol generator funksiyasi yozing.
+
+Tosh-Qaychi-Qog‘oz o‘yini logikasi yozing.
+
+Dice (kubik) tashlash o‘yini yozing.
+
+Blackjack kartasini random tarqatish funksiyasi yozing.
+
+Quiz o‘yini savol-javob tekshiruvchi funksiya yozing.
+
+Hangman (so‘z topish) o‘yini logikasi yozing.
+
+Ball yig‘ish tizimi yozing (har to‘g‘ri javob +10).
+
+Mini RPG jang logikasi yozing (attack, health kamayishi).
+
+📝 181–190 — Matn analizatori
+
+Matndagi so‘zlar sonini hisoblovchi funksiya.
+
+Matndagi gaplar sonini aniqlovchi funksiya.
+
+Matndagi belgilar sonini aniqlovchi funksiya.
+
+Eng ko‘p ishlatilgan so‘zni topuvchi funksiya.
+
+Har bir so‘z nechta marta qatnashganini hisoblovchi funksiya.
+
+Matndan barcha raqamlarni ajratib oluvchi funksiya.
+
+Matndan barcha maxsus belgilarni olib tashlovchi funksiya.
+
+Matndagi unli/undosh sonini hisoblovchi funksiya.
+
+Matn palindrome ekanini tekshiruvchi funksiya.
+
+Matnni shifrlovchi va deshifrlovchi funksiya yozing.
+
+🚀 191–200 — Mini Project darajasida
+
+Online shop tizimi (Product, Cart, Checkout).
+
+Bank tizimi (Account, deposit, withdraw, history).
+
+Student baholash tizimi (grade calculation, average, ranking).
+
+Chat filter tizimi (yomon so‘zlarni bloklash).
+
+Login/Registratsiya tizimi (username unique, password validation).
+
+To-do list dasturi (task qo‘shish, o‘chirish, bajarildi belgilash).
+
+ATM simulyatori (pin tekshirish, balans, pul yechish).
+
+Kino bron qilish tizimi (seat tanlash, band qilish).
+
+Quiz platforma (savollar bazasi, natija hisoblash).
+
+Blog tizimi (post qo‘shish, o‘chirish, izoh qoldirish).

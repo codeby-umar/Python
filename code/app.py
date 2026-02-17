@@ -1,3 +1,4 @@
+import math
 # # 1 - vazifa
 # ism = input("Sizning isningiz :")
 # full_Hello = f"Hello {ism}"
@@ -451,3 +452,92 @@
 # value = len(replaces)
 # full_Code = f"Sizning ismingiz : {name} , {replaces} ismingizda  {value} harfdan iborat"
 # print(full_Code)
+
+
+# easy homework
+"""1 - vazifa"""
+"""1. Foydalanuvchidan ism so‘ra va ekranga:"""
+# name = str(input("Ismingiz kiriting :"))
+# print("Salom" , name.capitalize())
+"""2 - vazifa"""
+"""2. Ikkita son kiritib, ularning yig‘indisini chiqar."""
+# sum = input("Son kiriting :")
+# sum2 = input("Son kiriitng :")
+# Value_Key = float(sum) + float(sum2)
+# print("Javob :" , Value_Key)
+"""3 - vazifa"""
+"""3. Son kiritib, uning juft yoki toqligini aniqlovchi dastur yoz."""
+# number = int(input("Son kirititng :"))
+
+# if number % 2 == 0:
+#     print(f"Bu son {number} juft son")
+# else:
+#     print(f"Bu son {number} juft emas")
+"""4 - vazifa"""
+"""4. Foydalanuvchi yoshini kiritsin. Agar 18 dan katta bo‘lsa "Ruxsat berildi", aks holda "Ruxsat yo‘q" chiqarsin."""
+
+# new_Age = int(input("Son kiriting :"))
+
+# if new_Age > 18:
+#     print("------------------------------------")
+#     print("Tabriklaymiz siz ishga olindingiz !")
+#     print("------------------------------------")
+# elif new_Age == 18:
+#     print("------------------------------------")
+#     print("Tabriklaymiz siz ishga olindingiz !")
+#     print("------------------------------------")
+# else:
+#     print("------------------------------------")
+#     print(f"Sizni ishga olmaymisz chunki yoshingiz {new_Age}")
+#     print("------------------------------------")
+
+"""5 - uyga vazifa"""
+"""5. 1 dan 10 gacha bo‘lgan sonlarni for yordamida chiqar."""
+# for i in range(1 ,10):
+#     print(i)
+
+"""6 - vazifa"""
+# sum = int(input("Son kiriting :"))
+# kub = sum ** 3
+# kvadrat = sum ** 2
+# print(f"Bu kubi : {kub} Bu esa Kvadrati : {kvadrat}")
+"""7 - vazifa"""
+# sum = int(input("Son kiriting :"))
+# full_Code = math.factorial(sum)
+# print(f"{sum} factoryani {full_Code}")
+
+"""8 - vazifa"""
+
+
+# 9. List ichidagi eng katta sonni top.
+# Masalan: [4, 7, 1, 9, 3]
+
+# 10. Foydalanuvchi kiritgan matnni teskari qilib chiqar.
+# Masalan: "salom" → "molas"
+
+# 11. Son tub (prime) yoki yo‘qligini aniqlovchi dastur yoz.
+
+# 12. 1 dan N gacha bo‘lgan sonlar yig‘indisini hisobla.
+
+# 13. List ichidagi takrorlanadigan elementlarni olib tashla.
+
+# 14. Parol tekshiruvchi dastur yoz. To‘g‘ri parol: "python123"
+
+# 15. Oddiy kalkulyator yoz (+, -, *, /).
+# 16. Random son o‘yini yoz.
+# Kompyuter 1–10 orasida son o‘ylaydi, foydalanuvchi topishi kerak.
+# (Buning uchun random modulidan foydalan.)
+# 17. Matndagi harflar sonini hisoblovchi funksiya yoz.
+# 18. Fibonacci ketma-ketligini N ta elementgacha chiqar.
+# 19. Mini login tizimi yoz:
+# Username va password to‘g‘ri bo‘lsa kirishga ruxsat.
+# 20. Mini Bank Tizimi yoz.
+# Talablar:
+# Boshlang‘ich balans = 1000
+# 1 – Pul qo‘shish
+# 2 – Pul yechish
+# 3 – Balansni ko‘rish
+# 4 – Chiqish
+# Agar balansdan ko‘p pul yechmoqchi bo‘lsa xatolik chiqsin
+# while sikl ishlatish shart
+

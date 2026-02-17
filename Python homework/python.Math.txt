@@ -1,0 +1,434 @@
+Ildiz va daraja - vazifalar 
+Berilgan sonning kvadrat ildizini top (math.sqrt)
+Sonning kub ildizini top
+Sonni 5-darajaga oshir
+Ikki sonni math.pow() yordamida darajaga oshir
+Son manfiy bo‘lsa xatolik chiqsin
+1 dan 10 gacha sonlarning ildizini chiqar
+Sonning modulini top (math.fabs)
+100 ta tasodifiy son ildizlarini chiqar
+Sonning 1/3 darajasini hisobla
+Sonni kvadrat qilib, ildizini qayta top
+Logarifmlar
+log10 hisobla
+log2 hisobla
+ln hisobla (math.log)
+Logarifm asosini o‘zgartirib hisobla
+1 dan 20 gacha log10 jadval chiqaring
+e sonini chiqar (math.e)
+e ning 5-darajasi
+log(e) qiymatini tekshir
+Katta sonning logarifmini hisobla
+Log natijasini 3 ta kasr bilan chiqar
+Trigonometriya
+30° sin ni top
+45° cos ni top
+60° tan ni top
+Radianni gradusga o‘gir
+Gradusni radianga o‘gir
+0 dan 360 gacha sin jadvali
+cos²x + sin²x ni tekshir
+arcsin hisobla
+arccos hisobla
+arctan hisobla
+ceil() ishlat
+floor() ishlat
+round() bilan 2 xonali chiqaring
+Manfiy sonni ceil qil
+Kasr sonni floor qil
+Pi ni 5 xonagacha chiqar
+e ni 4 xonagacha chiqar
+100 ta sonni yaxlitla
+Sonni butun qismiga ajrat
+Sonni kasr qismiga ajrat
+factorial() hisobla
+
+1–10 faktorial jadvali
+
+gcd() top
+
+lcm() top
+
+hypot() ishlat
+
+degrees() ishlat
+
+radians() ishlat
+
+isclose() bilan taqqosla
+
+modf() ishlat
+
+frexp() ishlat
+51–60. Yuqoridagilarni kombinatsiya qilib 10 ta aralash masala tuz
+Doira yuzi
+
+Doira uzunligi
+
+To‘g‘ri to‘rtburchak diagonali
+
+Uchburchak yuzi (Geron formulasi)
+
+Shar hajmi
+
+Silindr hajmi
+
+Konus hajmi
+
+Trapetsiya yuzi
+
+Parallelogram yuzi
+
+Romb yuzi
+
+71–90. 20 ta murakkab geometriya masalasi
+
+📊 Statistika
+
+O‘rtacha qiymat
+
+Standart og‘ish formulasi
+
+Dispersiya
+
+100 ta son ildizini hisoblab o‘rtachasini top
+95–110. Statistik hisoblash masalalari
+
+📈 Algebra
+
+Kvadrat tenglama diskriminanti
+
+Ildizlarni top
+
+Polinom qiymatini hisobla
+
+Ildizlar orasini tekshir
+115–130. Murakkab algebraik ifodalar
+
+🔢 Kombinatorika
+
+Permutatsiya
+
+Kombinatsiya
+
+Faktorial asosida formulalar
+134–150. 17 ta kombinatorika masalasi
+
+
+Fibonacci ni math.sqrt bilan formuladan chiqar
+
+Newton usuli bilan ildiz top
+
+Pi ni Taylor qatori bilan hisobla
+
+e ni qator orqali hisobla
+
+Sin ni qator bilan hisobla
+
+Cos ni qator bilan hisobla
+157–180. 24 ta trigonometrik algoritmik masala
+181–200. 20 ta logarifmik model
+201–220. 20 ta sonli metod
+221–240. 20 ta matematik optimizatsiya masalasi
+
+Kredit foizini hisoblash modeli
+
+Murakkab foiz formulasi
+
+Eksponensial o‘sish modeli
+
+Radioaktiv parchalanish
+
+Populyatsiya modeli
+
+Logistik funksiya
+
+To‘lqin modeli (sin asosida)
+
+2D masofa hisoblash
+
+3D masofa hisoblash
+
+Uchburchakni trigonometrik tekshirish
+
+251–270. Fizika formulalari (tezlik, tezlanish, impuls)
+
+271–285. Grafik funksiya qiymatlarini hisoblash
+
+286–295. Murakkab matematik simulyatsiya
+
+Kvadrat tenglama grafik modeli
+
+Radian asosida aylana harakati modeli
+
+Bank foizi + log model
+
+Statistik analiz mini loyiha
+
+Kichik ilmiy kalkulyator yoz (math moduli to‘liq ishlatilgan bo‘lsin)
+
+251. Harakat tenglamasi (1D Motion Simulator)
+
+Berilgan:
+
+boshlang‘ich tezlik v0
+
+tezlanish a
+
+vaqt t
+
+Topish:
+
+oxirgi tezlik
+
+bosib o‘tilgan masofa
+
+maksimal balandlik (agar a manfiy bo‘lsa)
+
+Talab:
+
+math modulidan foydalanish
+
+Grafik jadval ko‘rinishida 0 dan t gacha har 0.1 sekundda qiymat chiqarish
+
+⚡ 252. Erkin tushish modeli
+
+h balandlikdan tashlangan jism
+
+h = 0 bo‘lgunga qadar har 0.05 sekundda joylashuvni hisobla
+
+yerga urilish vaqtini aniq top
+
+🛰 253. Parabolik harakat (Projectile Motion Advanced)
+
+v0 va burchak beriladi
+
+maksimal balandlik
+
+uchish masofasi
+
+uchish vaqti
+
+har 0.1 sekundda koordinatalar
+
+🌍 254. Gravitatsion kuch modeli
+
+2 ta massa va ular orasidagi masofa beriladi
+Nyuton qonuni asosida kuchni hisobla
+Masofa 0 ga yaqinlashganda cheksizlikni nazorat qil
+
+🔄 255. Aylana bo‘ylab harakat
+
+radius
+
+burchak tezligi
+
+markazga intilma tezlanish
+
+period
+
+💥 256. Impuls va energiya tizimi
+
+massa va tezlik
+
+impuls
+
+kinetik energiya
+
+tezlik 2 barobar oshsa energiya necha barobar oshadi?
+
+🌡 257. Gaz bosimi modeli (Ideal gas law)
+
+PV = nRT
+
+Noma’lumni aniqlovchi funksiya yoz
+
+🔋 258–270 (Murakkab Fizika)
+
+Radioaktiv parchalanish
+
+Kondensator zaryadi
+
+Tebranish harakati (sin asosida)
+
+Garmonik tebranish
+
+Elektromagnit to‘lqin modeli
+
+Nyuton sovish qonuni
+
+Relativistik tezlik formulasi
+
+Orbital tezlik
+
+Kosmik tezlik
+
+Energiyaning saqlanish qonuni modeli
+
+Tormoz masofasi modeli
+
+Real simulyatsiya: Mashina tezlanishi va yo‘l masofasi
+
+🔵 271–285. GRAFIK FUNKSIYA HISOBLASH MODELLARI
+
+(Bu yerda grafik chizish shart emas, lekin grafik uchun jadval ishlab chiqarish kerak)
+
+📈 271. y = x² + 2x + 1 funksiyasi uchun -10 dan 10 gacha jadval
+📉 272. y = sin(x) (radian asosida)
+🔁 273. y = e^x modeli
+📊 274. y = log(x) (0 dan katta qiymatlar)
+📐 275. y = tan(x) (asimptotalarni aniqlash)
+🧠 276. 2 ta funksiya kesishish nuqtasini top
+🔥 277–285. Advanced
+
+Polinom ildizlarini aniqlash
+
+Lokal minimum/maksimum topish
+
+Hosila approx (limit usuli bilan)
+
+Integral approx (Riemann summasi)
+
+Fourier sin modeli
+
+Ekstremum aniqlovchi algoritm
+
+Funksiya monotonligini tekshirish
+
+Parametrik funksiya modeli
+
+3D funksiya z = f(x,y) hisoblash
+
+🟣 286–295. MURAKKAB MATEMATIK SIMULYATSIYA
+🦠 286. Populyatsiya o‘sish modeli (Logistic Growth)
+💰 287. Inflyatsiya modeli
+🏦 288. Kredit amortizatsiya jadvali
+📉 289. Birja o‘sish simulyatsiyasi (eksponensial + random)
+🔄 290. Virus tarqalish modeli
+🌊 291. To‘lqin interferensiyasi
+🧮 292. Monte Carlo usuli bilan Pi hisoblash
+📐 293. Tasodifiy nuqtalar bilan integral hisoblash
+🔥 294. Newton-Raphson ildiz topish algoritmi
+
+KVADRAT TENGLAMA GRAFIK MODELI (Advanced)
+
+Talab:
+
+a, b, c foydalanuvchidan olinadi
+
+Diskriminant
+
+Ildizlar
+
+Vertex koordinatasi
+
+Simmetriya o‘qi
+
+Funksiya jadvali (-20 dan 20 gacha)
+
+Funksiya minimum yoki maksimumligini aniqlash
+
+Parabola yuqoriga yoki pastga ochilishini aniqlash
+
+Extra:
+
+0 ga yaqin a qiymatni tekshir (linearga aylanishi)
+
+🔷 RADIAN ASOSIDA AYLANA HARAKATI MODELI
+
+Berilgan:
+
+radius
+
+burchak tezligi
+
+vaqt
+
+Topish:
+
+x(t), y(t)
+
+tezlik v(t)
+
+markazga intilma tezlanish
+
+period
+
+har 0.1 sekundda koordinatalar
+
+Bonus:
+
+2 ta aylana harakatini birlashtirib Lissajous modeli
+
+🔷 BANK FOIZI + LOG MODEL
+
+Talab:
+
+Boshlang‘ich kapital
+
+Yillik foiz
+
+Yillar soni
+
+Hisoblash:
+
+Murakkab foiz
+
+Kapital 2 barobar bo‘lish vaqti (log yordamida)
+
+Inflyatsiya ta’siri
+
+Real va nominal farq
+
+Advanced:
+
+Har oy reinvest modeli
+
+Soliq hisoblash
+
+🔷 STATISTIK ANALIZ MINI LOYIHA
+
+Talab:
+
+100 ta random son yarat
+
+O‘rtacha
+
+Median
+
+Dispersiya
+
+Standart og‘ish
+
+Normal taqsimot approx
+
+Outlier aniqlash (2 sigma qoidasi)
+
+Histogram jadvali
+
+Bonus:
+
+Trend analiz
+
+Korrelatsiya hisoblash
+
+🔷 KICHIK ILMIY KALKULYATOR (PRO LEVEL)
+Shart:
+math modulidagi barcha asosiy funksiyalar ishlatilishi kerak:
+sqrt
+pow
+log
+sin, cos, tan
+factorial
+radians, degrees
+ceil, floor
+hypot
+constants (pi, e)
+Talab:
+Menu asosida ishlashi
+Xatoliklarni ushlash (try/except)
+2 darajali menyu
+History saqlash
+Foydalanuvchi chiqmaguncha ishlashi
+Advanced:
+Expression parser yoz (masalan: 2*sin(30)+log(10))

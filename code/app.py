@@ -1,4 +1,7 @@
 import math
+from colorama import Fore , Style , init
+init()
+
 # # 1 - vazifa
 # ism = input("Sizning isningiz :")
 # full_Hello = f"Hello {ism}"
@@ -540,4 +543,53 @@ import math
 # 4 – Chiqish
 # Agar balansdan ko‘p pul yechmoqchi bo‘lsa xatolik chiqsin
 # while sikl ishlatish shart
+
+
+
+# login = str(input("loginingizni kiriting :"))
+# password = int(input("passwordingizni kiriting :"))
+
+# if login == "codingbyumar@gmail.com":
+#     text = "Sizning loginingiz to'gri , Saytga xush kelibsiz "
+#     print(Fore.GREEN + text)
+# elif password == 0000:
+#     text = "Sizning loginingiz to'gri , Saytga xush kelibsiz "
+#     print(Fore.GREEN + text)
+# else:
+#     text = "Try again ---Error---"
+#     print(Fore.RED + text)
+
+
+
+# New_Text = input("So'z kiriting : ")
+# new_Color = input("Siz text qaysi rangda bolishini hohlaysiz : ")
+# code_New = new_Color.lower().replace(" ", "")
+
+# def Over_Color():
+#     print("------------------------------------")
+
+#     if code_New == "red":
+#         print(Fore.RED + New_Text)
+#     elif code_New == "blue":
+#         print(Fore.BLUE + New_Text)
+#     elif code_New == "yellow":
+#         print(Fore.YELLOW + New_Text)
+#     elif code_New == "white":
+#         print(Fore.WHITE + New_Text)
+#     elif code_New == "black":
+#         print(Fore.BLACK + New_Text)
+#     else:
+#         print("Bunday rang mavjud emas!")
+
+#     print(Style.RESET_ALL)
+#     print("------------------------------------")
+
+# Over_Color()
+
+# soz = "Salom Muhammad Umar"
+
+# def Red(text):
+#     return Fore.RED + text
+
+# print(Red(soz))
 

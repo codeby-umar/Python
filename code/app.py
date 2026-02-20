@@ -595,3 +595,98 @@ init()
 
 
 
+# funtion - vazifalar
+
+# 1
+
+# a = int(input("Son kiritng :"))
+# b = int(input("Son kiriting :"))
+
+# def get_Calculater(minus , pilus):
+#     return minus + pilus
+
+# full_Code = get_Calculater(a , b)
+# print("Javob :" , full_Code)
+
+# 2
+
+# def Get_Minus(num , num1):
+#     return num - num1
+
+# resualt = Get_Minus(20 , 5) 
+# print( "Javob :" , resualt)
+
+# 3
+
+# a = int(input("Son kiriting :"))
+# operator = input("kub\kvadrat :")
+
+# if operator == "kub":
+#     full = f"Siz kubini so'radingiz mana sizga kub : {a ** 3}"
+#     run = Fore.GREEN + full
+#     print(run)
+# elif open == "kvadrat":
+#     full = f"Siz kubini so'radingiz mana sizga kub : {a ** 2}"
+#     run = Fore.GREEN + full
+#     print(run)
+# else :
+#     print(Fore.RED + "Siz xatolik sodir bo'ldi iltimos qayta urining !")
+
+
+# 4
+# print("------------------------------------------------------")
+
+# Tushuncha = f"Siz bu kamculyator orqali + , - , * , /  \
+# factorial , ekub , ekuk , kub , topishingiz mumkin : "
+# print(Fore.GREEN + Tushuncha)
+
+# print("------------------------------------------------------")
+
+# a = float(input("Son kiriting a :"))
+# b = float(input("Son kiriting b :"))
+# operator = str(input('Siz nima qilmoqchisiz :'))
+
+# if operator == "+":
+#     full = a + b
+#     print("------------------------------------------------------")
+#     print(Fore.BLUE + "Javob :" , full)
+#     print("------------------------------------------------------")
+# elif operator == "-":
+#     full = a - b
+#     print("------------------------------------------------------")
+#     print(Fore.BLUE + "Javob :" , full)
+#     print("------------------------------------------------------")
+# elif operator == "*":
+#     full = a * b
+#     print("------------------------------------------------------")
+#     print(Fore.BLUE + "Javob :" , full)
+#     print("------------------------------------------------------")
+# elif operator == "/":
+#     full = a / b
+#     print("------------------------------------------------------")
+#     print(Fore.BLUE + "Javob :" , full)
+#     print("------------------------------------------------------")
+# elif operator == "factorial":
+#     full = math.factorial(a)
+#     print("------------------------------------------------------")
+#     print(Fore.BLUE + "Javob :" , full)
+#     print("------------------------------------------------------")
+# elif operator == "ekub":
+#     full = math.gcd(int(a) , int(b))
+#     print("------------------------------------------------------")
+#     print(Fore.BLUE + "Javob :" , full)
+#     print("------------------------------------------------------")
+# elif operator == "ekuk":
+#     full = math.lcm(int(a) , int(b))
+#     print("------------------------------------------------------")
+#     print(Fore.BLUE + "Javob :" , full)
+#     print("------------------------------------------------------")
+# else :
+#     print("------------------------------------------------------")
+#     print(Fore.RED + "Xatolik roy berdi iltimos qayta urining !")
+#     print("------------------------------------------------------")
+    
+    
+
+# 5
+

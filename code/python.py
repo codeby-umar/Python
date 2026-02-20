@@ -97,9 +97,6 @@ import math
 
 
 
-print(max(340 , 500 , 600 , 100))
-
-
 
 
 

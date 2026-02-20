@@ -1,0 +1,201 @@
+Berilgan sonning raqamlari yig‘indisini toping.
+
+Son palindrom ekanligini aniqlang.
+
+Massivdagi eng katta elementni toping.
+
+Massivdagi eng kichik elementni toping.
+
+Massiv elementlari yig‘indisini toping.
+
+Massiv elementlari ko‘paytmasini toping.
+
+Massivda berilgan son nechta marta uchrashini toping.
+
+Massivni teskari tartibda chiqaring.
+
+Stringni teskari qiling.
+
+String palindrom ekanligini tekshiring.
+
+n! ni hisoblang.
+
+Fibonacci n-chi hadini toping.
+
+Son tub yoki yo‘qligini aniqlang.
+
+Ikki sonning EKUBini toping.
+
+Ikki sonning EKUKini toping.
+
+Massivdagi juft sonlar sonini toping.
+
+Massivdagi toq sonlar sonini toping.
+
+Stringdagi unli harflar sonini toping.
+
+Stringdagi undosh harflar sonini toping.
+
+Stringdagi so‘zlar sonini toping.
+
+Massivdan dublikatlarni olib tashlang.
+
+Ikki massivni birlashtiring.
+
+Massiv saralangan yoki yo‘qligini aniqlang.
+
+Massivdagi ikkinchi eng katta sonni toping.
+
+Massivdagi ikkinchi eng kichik sonni toping.
+
+Berilgan son Armstrong ekanligini aniqlang.
+
+Sonning ikkilik ko‘rinishini chiqaring.
+
+Ikkilik sonni o‘nlikka o‘tkazing.
+
+Stringdagi eng uzun so‘zni toping.
+
+Stringdagi eng qisqa so‘zni toping.
+
+Ikki string anagram ekanligini aniqlang.
+
+Massivdagi manfiy sonlar sonini toping.
+
+Massivdagi musbat sonlar sonini toping.
+
+Stringdagi raqamlar sonini toping.
+
+Stringdagi katta harflar sonini toping.
+
+Stringdagi kichik harflar sonini toping.
+
+n gacha bo‘lgan sonlar yig‘indisini toping.
+
+Massivda berilgan element mavjudligini tekshiring.
+
+Massivdagi barcha nol elementlarni oxiriga suring.
+
+Stringdagi barcha bo‘sh joylarni olib tashlang.
+
+Son mukammal son ekanligini aniqlang.
+
+Massiv medianasini toping.
+
+Massivdagi eng ko‘p takrorlangan elementni toping.
+
+Ikki massiv kesishmasini toping.
+
+Stringdagi birinchi takrorlanmaydigan belgini toping.
+
+Stringdagi barcha belgilar unikal ekanligini aniqlang.
+
+Sonni teskari qilib chiqaring.
+
+Massivdagi farqi eng katta juftlikni toping.
+
+n-chi tribonacci sonini toping.
+
+Massivdagi elementlar o‘rtacha qiymatini toping.
+
+🟡 O‘RTA (51–100)
+
+Massivdagi eng uzun o‘suvchi ketma-ketlik uzunligini toping.
+
+Massivdagi eng uzun kamayuvchi ketma-ketlikni toping.
+
+Ikki massiv orasidagi farqni toping.
+
+Massivdagi k-chi eng katta elementni toping.
+
+Massivdagi k-chi eng kichik elementni toping.
+
+Stringdagi eng uzun palindrom substringni toping.
+
+Stringdagi barcha permutatsiyalarni hosil qiling.
+
+Massivdagi barcha subsetlarni hosil qiling.
+
+n ta qavs kombinatsiyasini hosil qiling.
+
+Massivni quick sort bilan saralang.
+
+Massivni merge sort bilan saralang.
+
+Binary search algoritmini yozing.
+
+Saralangan massivda berilgan sonning birinchi indeksini toping.
+
+Saralangan massivda berilgan sonning oxirgi indeksini toping.
+
+Aylantirilgan massivdan element toping.
+
+Massivdagi nolga teng bo‘lgan submassivlarni toping.
+
+Massivdagi maksimal submassiv yig‘indisini toping.
+
+Ikki string orasidagi umumiy eng uzun substringni toping.
+
+Ikki string orasidagi umumiy eng uzun subsequence ni toping.
+
+Tangalar kombinatsiyasi sonini toping (coin change).
+
+3 ta son yig‘indisi nol bo‘ladigan kombinatsiyalarni toping.
+
+Interval ro‘yxatlarini birlashtiring.
+
+Matritsani 90 gradusga aylantiring.
+
+Matritsani spiral tartibda o‘qing.
+
+Ikki matritsani ko‘paytiring.
+
+Matritsa determinantini toping.
+
+Graphda DFS yozing.
+
+Graphda BFS yozing.
+
+Graphda yo‘l mavjudligini aniqlang.
+
+Topologik tartiblashni yozing.
+
+Binary tree balandligini toping.
+
+Binary tree balanslanganligini tekshiring.
+
+Binary tree dagi maksimal yo‘l yig‘indisini toping.
+
+Binary tree ni invert qiling.
+
+Linked listni teskari qiling.
+
+Linked listda sikl borligini aniqlang.
+
+LRU cache yozing.
+
+Min stack yozing.
+
+Expression evaluator yozing.
+
+Sudoku to‘g‘riligini tekshiring.
+
+N-Queens muammosini yeching.
+
+Knapsack muammosini yeching.
+
+Dijkstra algoritmini yozing.
+
+Floyd-Warshall algoritmini yozing.
+
+Union-Find tuzilmasini yozing.
+
+Trie ma’lumot tuzilmasini yozing.
+
+Segment tree yozing.
+
+Fenwick tree yozing.
+
+KMP qidiruv algoritmini yozing.
+
+Rabin-Karp algoritmini yozing.

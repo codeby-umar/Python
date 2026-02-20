@@ -1,0 +1,199 @@
+Berilgan sonning raqamlari ko‘paytmasini rekursiya bilan toping.
+
+String palindrom ekanligini rekursiya orqali tekshiring.
+
+Berilgan sonning ikkilik ko‘rinishini rekursiya bilan chiqaring.
+
+Massivdagi maksimal elementni rekursiya bilan toping.
+
+Massivdagi minimal elementni rekursiya bilan toping.
+
+Fibonacci n-chi hadini rekursiya va memoizatsiyasiz toping.
+
+n! ni rekursiya bilan hisoblang.
+
+Massiv elementlari yig‘indisini rekursiya bilan toping.
+
+Stringdagi unli harflar sonini rekursiya bilan toping.
+
+Berilgan sonning raqamlar sonini rekursiya bilan aniqlang.
+
+Massivni rekursiya bilan teskari qiling.
+
+Stringni rekursiya bilan teskari qiling.
+
+Son tub yoki yo‘qligini rekursiya bilan aniqlang.
+
+EKUBni rekursiyasiz lekin siklsiz toping (Evklid formulasi bilan).
+
+n darajani tez exponentiation rekursiya bilan toping.
+
+Massivdagi juft sonlar sonini rekursiya bilan toping.
+
+Massivdagi toq sonlar sonini rekursiya bilan toping.
+
+Stringdagi katta harflar sonini rekursiya bilan toping.
+
+Stringdagi kichik harflar sonini rekursiya bilan toping.
+
+Berilgan son Armstrong ekanligini rekursiya bilan tekshiring.
+
+Massivdagi eng katta 2-elementni siklsiz toping.
+
+Massivdagi eng kichik 2-elementni siklsiz toping.
+
+Stringdagi eng ko‘p takrorlangan belgini siklsiz toping.
+
+Massivda berilgan element bor yoki yo‘qligini rekursiya bilan aniqlang.
+
+Son mukammal (perfect number) ekanligini rekursiya bilan tekshiring.
+
+Massivni merge sort rekursiya bilan yozing.
+
+Quick sortni rekursiya bilan yozing.
+
+Binary searchni rekursiya bilan yozing.
+
+Stringdagi barcha bo‘sh joylarni olib tashlang (siklsiz).
+
+Ikki string anagram ekanligini siklsiz tekshiring.
+
+Massivdagi elementlar ko‘paytmasini rekursiya bilan toping.
+
+n gacha bo‘lgan sonlar yig‘indisini rekursiya bilan toping.
+
+Pascal uchburchagining n-qatorini rekursiya bilan toping.
+
+Sonni rim raqamiga rekursiya bilan o‘tkazing.
+
+Rim raqamidan butun songa o‘tkazing (siklsiz).
+
+Massivdagi manfiy sonlar sonini rekursiya bilan toping.
+
+Stringdagi raqamlar sonini rekursiya bilan toping.
+
+Stringdagi maxsus belgilar sonini rekursiya bilan toping.
+
+Sonni teskari qilib chiqaring rekursiya bilan.
+
+Ikki sonning EKUKini siklsiz toping.
+
+Massiv elementlarini juft va toqlarga ajrating (siklsiz).
+
+Stringdagi eng uzun so‘zni toping (siklsiz).
+
+Massivdagi dublikatlarni olib tashlang (siklsiz).
+
+Massivni faqat rekursiya bilan saralang.
+
+n-chi Catalan sonini rekursiya bilan toping.
+
+n-chi Tribonacci sonini rekursiya bilan toping.
+
+Sonning bo‘luvchilari sonini rekursiya bilan toping.
+
+Matritsa determinantini rekursiya bilan toping.
+
+Ikki matritsani ko‘paytiring (siklsiz).
+
+Stringni run-length encoding qiling (rekursiya bilan).
+
+Run-length encoded stringni decode qiling (rekursiya bilan).
+
+Massivdagi eng uzun o‘suvchi ketma-ketlik uzunligini toping (siklsiz).
+
+n ta qavs kombinatsiyasini rekursiya bilan hosil qiling.
+
+Tower of Hanoi ni rekursiya bilan yozing.
+
+n-chi Gray kodini rekursiya bilan hosil qiling.
+
+Sonni 2-likdan 10-likka rekursiya bilan o‘tkazing.
+
+Sonni 10-likdan 16-likka rekursiya bilan o‘tkazing.
+
+Stringdagi so‘zlarni teskari tartibda chiqaring (siklsiz).
+
+Massiv medianasini siklsiz toping.
+
+Massivdagi eng katta ketma-ket yig‘indini toping (Kadane siklsiz varianti).
+
+n-chi Harmonik sonni rekursiya bilan toping.
+
+Stringdagi barcha permutatsiyalarni rekursiya bilan toping.
+
+Massivdagi barcha kombinatsiyalarni rekursiya bilan toping.
+
+n-chi Bell sonini rekursiya bilan toping.
+
+n-chi Stirling sonini rekursiya bilan toping.
+
+Sonni faktorlarga ajrating rekursiya bilan.
+
+Massivdagi barcha juft kombinatsiyalarni hosil qiling (rekursiya bilan).
+
+Binary tree chuqurligini rekursiya bilan toping.
+
+Binary tree balanslanganligini tekshiring (rekursiya bilan).
+
+Linked listni teskari qiling (rekursiya bilan).
+
+Ikki linked listni qo‘shing (rekursiya bilan).
+
+Binary search tree ga element qo‘shing (rekursiya bilan).
+
+Binary search tree dan element o‘chiring (rekursiya bilan).
+
+Graph DFS ni rekursiya bilan yozing.
+
+Graphda yo‘l borligini rekursiya bilan tekshiring.
+
+Massivdagi elementlarning barcha subsetlarini hosil qiling.
+
+n-chi derangement sonini rekursiya bilan toping.
+
+Stringdagi eng uzun palindrom substringni toping (siklsiz).
+
+n-chi Lucas sonini rekursiya bilan toping.
+
+Massivdagi elementlarni rekursiv ravishda guruhlang.
+
+Matritsani 90 gradusga rekursiya bilan aylantiring.
+
+Spiral tartibda matritsa elementlarini chiqaring (rekursiya bilan).
+
+Sudoku validligini tekshiring (siklsiz).
+
+N-Queens muammosini rekursiya bilan yeching.
+
+Stringdan barcha dublikat belgilarni olib tashlang (rekursiya bilan).
+
+Ikki string orasidagi Levenshtein masofani rekursiya bilan toping.
+
+Massivdagi k-chi eng katta elementni siklsiz toping.
+
+Matritsada minimal yo‘l yig‘indisini rekursiya bilan toping.
+
+Knapsack muammosini rekursiya bilan yeching.
+
+Longest Common Subsequence ni rekursiya bilan toping.
+
+Binary stringdagi 1 lar sonini rekursiya bilan toping.
+
+Sonni base-k tizimiga rekursiya bilan o‘tkazing.
+
+Massivdagi elementlar XOR yig‘indisini rekursiya bilan toping.
+
+Stringdagi barcha substringlarni rekursiya bilan hosil qiling.
+
+n-chi Motzkin sonini rekursiya bilan toping.
+
+Ikki matritsa tengligini rekursiya bilan tekshiring.
+
+Binary tree dagi maksimal yo‘l yig‘indisini toping (rekursiya bilan).
+
+Massivni rekursiv ravishda 2 ga bo‘lib tekshiring (divide & conquer).
+
+n-chi partition sonini rekursiya bilan toping.
+
+Expression evaluator yozing (rekursiya bilan, siklsiz).

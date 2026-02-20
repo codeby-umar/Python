@@ -1,0 +1,204 @@
+Berilgan massivda yig‘indisi K ga teng bo‘lgan barcha juftliklarni toping (O(n)).
+
+Massivdagi maksimal uzunlikdagi nol yig‘indili submassivni toping.
+
+Saralangan massivdan takrorlangan elementni O(log n) da toping.
+
+Aylantirilgan saralangan massivdan minimal elementni toping.
+
+Ikki saralangan massiv medianasini O(log n) da toping.
+
+Massivdagi k ta eng ko‘p uchraydigan elementni toping (O(n)).
+
+Stringdagi eng uzun substringni toping (har bir belgi kamida K marta qatnashsin).
+
+Interval ro‘yxatida yopiq oraliqlar sonini maksimal qiling.
+
+Matritsada faqat o‘ng va pastga yurib minimal yo‘l yig‘indisini toping.
+
+Berilgan sonni minimal kvadratlar yig‘indisiga ajrating.
+
+Massivni k marta aylantirgandan keyingi holatini O(1) xotirada toping.
+
+Ikki string orasidagi minimal tahrir masofasini toping.
+
+Binary tree dagi eng uzun zigzag yo‘lni toping.
+
+Massivda majority element (n/3 dan katta) ni toping.
+
+K ta saralangan ro‘yxatni birlashtiring (O(n log k)).
+
+Matritsada orol (island) lar sonini toping (DFS/BFS).
+
+Directed graphda sikl mavjudligini aniqlang.
+
+Topologik tartiblashning barcha variantlarini hisoblang.
+
+Massivdagi eng kichik k elementni O(n) da toping.
+
+Segment tree yordamida interval yig‘indilarini hisoblang.
+
+Berilgan string uchun barcha palindrom substringlar sonini toping.
+
+Binary search tree ni valid yoki yo‘qligini tekshiring.
+
+Massivdagi maksimal ko‘paytma submassivni toping.
+
+Tangalar yordamida minimal sonni hosil qiling (coin change min).
+
+2D matritsada eng katta kvadrat 1 lar blokini toping.
+
+Massivdagi eng uzun ketma-ket sonlar zanjirini toping (unsorted).
+
+Trie yordamida prefiks qidiruv tizimini yozing.
+
+LRU cache ni O(1) operatsiyalar bilan yozing.
+
+N-Queens yechimlar sonini toping.
+
+Berilgan ifodani to‘g‘ri qavs qo‘yish orqali nechta usulda hisoblash mumkinligini toping.
+
+🔥🔥 HARD (31–70) — Olimpiada darajasi
+
+Berilgan grafda minimal kesish (minimum cut) ni toping.
+
+Max flow algoritmini yozing (Edmonds-Karp).
+
+Kruskal algoritmini yozing.
+
+Prim algoritmini yozing.
+
+Floyd-Warshall yordamida barcha juftliklar orasidagi eng qisqa yo‘lni toping.
+
+Dijkstra algoritmini yozing (priority queue bilan).
+
+Bellman-Ford algoritmini yozing.
+
+Directed acyclic graphda eng uzun yo‘lni toping.
+
+Strongly connected components ni toping (Kosaraju).
+
+Tarjan algoritmini yozing.
+
+Euler sikl mavjudligini aniqlang.
+
+Hamilton yo‘l mavjudligini aniqlang.
+
+Bipartite graph ekanligini tekshiring.
+
+Graph coloring minimal ranglar sonini toping.
+
+Traveling Salesman Problem (DP bilan).
+
+Knapsack 0/1 optimal qiymatini toping (DP).
+
+Matrix chain multiplication minimal xarajatini toping.
+
+Optimal binary search tree qurish.
+
+Longest Increasing Subsequence O(n log n).
+
+Longest Bitonic Subsequence ni toping.
+
+Stringda minimal palindrom bo‘linishni toping.
+
+Word break masalasini DP bilan yeching.
+
+Edit distance ni memoizatsiya bilan yozing.
+
+Catalan sonini katta n uchun toping.
+
+Stirling sonlarini hisoblang.
+
+Bell sonini hisoblang.
+
+Berilgan sonning barcha bo‘luvchilarini tez topish algoritmini yozing.
+
+Segment tree bilan minimum query yozing.
+
+Fenwick tree yozing.
+
+Persistent segment tree yozing.
+
+KMP algoritmini yozing.
+
+Rabin-Karp algoritmini yozing.
+
+Z-algoritmni yozing.
+
+Suffix array qurish algoritmini yozing.
+
+Suffix tree qurish algoritmini yozing.
+
+Aho-Corasick algoritmini yozing.
+
+Convex hull (Graham scan).
+
+Line segment intersection aniqlash.
+
+Sweep line algoritmi bilan interval kesishmalarini toping.
+
+Dinamik dasturlash bilan partition problem yeching.
+
+💀 EXTREME (71–100) — Juda murakkab
+
+Dinic algoritmi bilan max flow yozing.
+
+Min-cost max-flow yozing.
+
+Heavy-Light Decomposition yozing.
+
+Centroid decomposition yozing.
+
+Binary lifting bilan LCA toping.
+
+Sparse table yozing.
+
+Mo’s algorithm yozing.
+
+FFT yordamida polinom ko‘paytiring.
+
+Karatsuba ko‘paytirish algoritmi yozing.
+
+Strassen matritsa ko‘paytirish algoritmini yozing.
+
+Pollard Rho faktorizatsiya algoritmini yozing.
+
+Miller-Rabin primality test yozing.
+
+Chinese Remainder Theorem implement qiling.
+
+Extended Euclid algoritmini yozing.
+
+Modular inverse hisoblang.
+
+Lucas theorem yozing.
+
+Berlekamp-Massey algoritmini yozing.
+
+Splay tree yozing.
+
+Treap yozing.
+
+Red-Black tree yozing.
+
+AVL tree yozing.
+
+B-tree yozing.
+
+Skip list yozing.
+
+Link-cut tree yozing.
+
+Persistent union-find yozing.
+
+Rolling hash collision tekshiruvi yozing.
+
+2-SAT muammosini yeching.
+
+SAT solver mini versiyasini yozing.
+
+Dinamik grafda online connectivity ni yeching.
+
+Parallel binary search algoritmini yozing.
+

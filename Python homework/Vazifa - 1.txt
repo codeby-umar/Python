@@ -1,0 +1,198 @@
+Berilgan sonning raqamlari yig‘indisini toping.
+
+Son palindrom ekanligini tekshiring.
+
+Massivdagi eng katta elementni toping.
+
+Massivdagi eng kichik elementni toping.
+
+Massiv elementlari yig‘indisini toping.
+
+Massiv elementlari ko‘paytmasini toping.
+
+Massivda berilgan son nechta marta uchrashini toping.
+
+Massivni teskari tartibda chiqaring.
+
+Stringni teskari qiling.
+
+String palindrom ekanligini tekshiring.
+
+n! ni hisoblang.
+
+Fibonacci n-chi hadini toping.
+
+Son tub yoki yo‘qligini aniqlang.
+
+Ikki sonning EKUBini toping.
+
+Ikki sonning EKUKini toping.
+
+Massivdagi juft sonlar sonini toping.
+
+Massivdagi toq sonlar sonini toping.
+
+Stringdagi unli harflar sonini toping.
+
+Stringdagi undosh harflar sonini toping.
+
+Stringdagi so‘zlar sonini toping.
+
+Massivdan dublikatlarni olib tashlang.
+
+Ikki massivni birlashtiring.
+
+Massiv saralangan yoki yo‘qligini aniqlang.
+
+Massivdagi ikkinchi eng katta sonni toping.
+
+Massivdagi ikkinchi eng kichik sonni toping.
+
+Berilgan son Armstrong ekanligini aniqlang.
+
+Sonning ikkilik ko‘rinishini chiqaring.
+
+Ikkilik sonni o‘nlikka o‘tkazing.
+
+Stringdagi eng uzun so‘zni toping.
+
+Stringdagi eng qisqa so‘zni toping.
+
+Ikki string anagram ekanligini aniqlang.
+
+Massivdagi manfiy sonlar sonini toping.
+
+Massivdagi musbat sonlar sonini toping.
+
+Stringdagi raqamlar sonini toping.
+
+Stringdagi katta harflar sonini toping.
+
+Stringdagi kichik harflar sonini toping.
+
+n gacha bo‘lgan sonlar yig‘indisini toping.
+
+Massivda berilgan element mavjudligini tekshiring.
+
+Massivdagi barcha nol elementlarni oxiriga suring.
+
+Stringdagi barcha bo‘sh joylarni olib tashlang.
+
+Son mukammal son ekanligini aniqlang.
+
+Massiv medianasini toping.
+
+Massivdagi eng ko‘p takrorlangan elementni toping.
+
+Ikki massiv kesishmasini toping.
+
+Stringdagi birinchi takrorlanmaydigan belgini toping.
+
+Stringdagi barcha belgilar unikal ekanligini aniqlang.
+
+Sonni teskari qilib chiqaring.
+
+Massivdagi farqi eng katta juftlikni toping.
+
+n-chi tribonacci sonini toping.
+
+Massivdagi elementlar o‘rtacha qiymatini toping.
+
+Massivdagi eng uzun o‘suvchi ketma-ketlik uzunligini toping.
+
+Massivdagi eng uzun kamayuvchi ketma-ketlikni toping.
+
+Ikki massiv orasidagi farqni toping.
+
+Massivdagi k-chi eng katta elementni toping.
+
+Massivdagi k-chi eng kichik elementni toping.
+
+Stringdagi eng uzun palindrom substringni toping.
+
+Stringdagi barcha permutatsiyalarni hosil qiling.
+
+Massivdagi barcha subsetlarni hosil qiling.
+
+n ta qavs kombinatsiyasini hosil qiling.
+
+Massivni quick sort bilan saralang.
+
+Massivni merge sort bilan saralang.
+
+Binary search algoritmini yozing.
+
+Saralangan massivda berilgan sonning birinchi indeksini toping.
+
+Saralangan massivda berilgan sonning oxirgi indeksini toping.
+
+Aylantirilgan massivdan element toping.
+
+Massivdagi nolga teng bo‘lgan submassivlarni toping.
+
+Massivdagi maksimal submassiv yig‘indisini toping.
+
+Ikki string orasidagi umumiy eng uzun substringni toping.
+
+Ikki string orasidagi umumiy eng uzun subsequence ni toping.
+
+Tangalar kombinatsiyasi sonini toping (coin change).
+
+2D matritsada eng katta kvadrat 1 lar blokini toping.
+
+Massivdagi eng uzun ketma-ket sonlar zanjirini toping (unsorted).
+
+Trie yordamida prefiks qidiruv tizimini yozing.
+
+LRU cache ni O(1) operatsiyalar bilan yozing.
+
+N-Queens yechimlar sonini toping.
+
+Berilgan ifodani to‘g‘ri qavs qo‘yish orqali nechta usulda hisoblash mumkinligini toping.
+
+Berilgan grafda minimal kesish (minimum cut) ni toping.
+
+Max flow algoritmini yozing (Edmonds-Karp).
+
+Kruskal algoritmini yozing.
+
+Prim algoritmini yozing.
+
+Floyd-Warshall yordamida barcha juftliklar orasidagi eng qisqa yo‘lni toping.
+
+Dijkstra algoritmini yozing (priority queue bilan).
+
+Bellman-Ford algoritmini yozing.
+
+Directed acyclic graphda eng uzun yo‘lni toping.
+
+Strongly connected components ni toping (Kosaraju).
+
+Tarjan algoritmini yozing.
+
+Euler sikl mavjudligini aniqlang.
+
+Hamilton yo‘l mavjudligini aniqlang.
+
+Bipartite graph ekanligini tekshiring.
+
+Graph coloring minimal ranglar sonini toping.
+
+Traveling Salesman Problem (DP bilan).
+
+Knapsack 0/1 optimal qiymatini toping (DP).
+
+Matrix chain multiplication minimal xarajatini toping.
+
+Optimal binary search tree qurish.
+
+Longest Increasing Subsequence O(n log n).
+
+Longest Bitonic Subsequence ni toping.
+
+Stringda minimal palindrom bo‘linishni toping.
+
+Word break masalasini DP bilan yeching.
+
+Edit distance ni memoizatsiya bilan yozing.
+

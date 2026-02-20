@@ -689,4 +689,32 @@ init()
     
 
 # 5
+# name = str(input('Ismingiz kiriting :'))
+# print("Salom" , name)
+
+# 6
+# a = int(input("Son kiriting :"))
+# b = int(input("Son kiriting :"))
+# full_Code = a + b
+# print(full_Code)
+
+
+# a = str(input("yil kiriting :"))
+# oxirgi = a.replace(" " , "-")
+
+# print("------------------------------")
+# if oxirgi == "12-04-2008":
+#     code = "muhammad umar".title()
+#     sari = Fore.GREEN + code
+#     print(sari)
+# elif oxirgi == "14-06-2008":
+#     code = "Mirjalol".title()
+#     sari = Fore.GREEN + code
+#     print(sari)
+# else:
+#     print(Fore.RED + "___Error___")
+
+# print("------------------------------")
+
+
 

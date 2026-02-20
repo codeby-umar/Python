@@ -1,0 +1,203 @@
+Foydalanuvchidan ism olib "Salom, ism!" chiqar.
+
+2 ta son olib ularning yig‘indisini chiqar.
+
+3 ta sonning o‘rtachasini top.
+
+Sonning kvadratini chiqar.
+
+Sonning kubini chiqar.
+
+To‘g‘ri to‘rtburchak yuzasini top.
+
+Aylana yuzasini top (π=3.14).
+
+Son musbat yoki manfiy ekanini aniqlash.
+
+Son juft yoki toq ekanini aniqlash.
+
+3 ta son ichidan kattasini top (max ishlatmasdan).
+
+3 ta son ichidan kichigini top.
+
+2 sonni joyini almashtir.
+
+Temperatura °C dan °F ga o‘tkaz.
+
+Parol tekshir (agar "1234" bo‘lsa to‘g‘ri).
+
+Son 100 dan katta yoki kichikligini tekshir.
+
+Son 10 ga bo‘linadimi?
+
+Ikki son tengmi?
+
+Yoshga qarab voyaga yetgan yoki yo‘qligini aniqlash.
+
+Belgini katta harfga o‘tkaz.
+
+Belgini kichik harfga o‘tkaz.
+
+Matn uzunligini chiqar.
+
+Matn boshidagi va oxiridagi bo‘sh joyni olib tashla.
+
+Matn ichida "a" harfi bormi?
+
+Ikki matnni qo‘sh.
+
+Sonni stringga o‘tkaz va aksincha.
+
+🟡 MEDIUM (26–60)
+
+4 ta son ichidan kattasini top.
+
+4 ta son ichidan kichigini top.
+
+Son 3 va 5 ga bo‘linadimi?
+
+Uchburchak mavjudligini tekshir (a+b>c).
+
+Bahoga qarab grade chiqar (A,B,C).
+
+Oy raqamiga qarab faslni aniqlash.
+
+Haftaning kunini raqam bo‘yicha chiqar.
+
+Kalkulyator (+,-,*,/).
+
+3 xonali sonni teskarisiga o‘girish.
+
+Son palindrommi?
+
+2 xonali son raqamlar yig‘indisi.
+
+Dollarni so‘mga o‘tkaz.
+
+Sekundni minut va sekundga ajrat.
+
+Son ildizini top.
+
+Matn bosh harfini katta qil.
+
+Emailda "@" borligini tekshir.
+
+Login uzunligi 5 dan katta bo‘lishi kerak.
+
+2 ta matn tengmi?
+
+Son 2 va 3 ga bir vaqtda bo‘linadimi?
+
+Uch son o‘sish tartibidami?
+
+Uch son kamayish tartibidami?
+
+Sana to‘g‘rimi (1–31)?
+
+1–12 oy tekshirish.
+
+BMI hisoblash.
+
+4 xonali son raqamlar yig‘indisi.
+
+Kredit foiz hisoblash.
+
+Chegirma hisoblash.
+
+Parol uzunligi kamida 8 bo‘lsin.
+
+Matn faqat raqamlardan iboratmi?
+
+Matn faqat harflardan iboratmi?
+
+Telefon raqam 9 ta raqammi?
+
+Ikki son orasidagi farq.
+
+5 ta son ichidan eng kattasi (if bilan).
+
+5 ta son ichidan eng kichigi.
+
+2 son orasida qaysi biri 0 ga yaqin?
+
+🔴 HARD (61–100)
+
+Kvadrat tenglama yechish.
+
+Uchburchak turi (teng tomonli va h.k).
+
+4 ta son ichida faqat bittasi musbatmi?
+
+3 ta son ichida faqat bittasi juftmi?
+
+5 ta son ichidan o‘rtacha qiymat.
+
+Bank foizini murakkab formula bilan hisoblash.
+
+Yil kabisa yilmi?
+
+Sana to‘liq validatsiya (kun, oy, yil).
+
+4 xonali son palindrommi?
+
+3 ta son orasida tenglari bormi?
+
+Kvadrat ildiz butun sonmi?
+
+Parolda katta harf borligini tekshir.
+
+Parolda raqam borligini tekshir.
+
+Parolda maxsus belgi borligini tekshir.
+
+3 ta son Pifagor uchligi bo‘ladimi?
+
+Soat 24 formatdan 12 formatga o‘tkaz.
+
+3 ta sonning medianasini top.
+
+4 ta sonning medianasini top.
+
+3 xonali Armstrong sonmi?
+
+Kreditni annuitet formula bilan hisoblash.
+
+Oy kunlari nechta (kabisa hisobga olib).
+
+5 ta son ichidan 2-eng kattasini top.
+
+5 ta son ichidan 2-eng kichigini top.
+
+Matn palindrommi?
+
+Matn bosh harflarini katta qil.
+
+IP address format tekshir.
+
+Email to‘liq validatsiya.
+
+Login faqat harf va raqamdan iboratmi?
+
+3 ta son geometrik progressiyami?
+
+3 ta son arifmetik progressiyami?
+
+Uchburchak perimetr va yuzasini top.
+
+Son Fibonacci sonmi?
+
+2 ta sana orasidagi farq.
+
+Bank kredit to‘lov jadvali (faqat formula bilan).
+
+5 ta bahodan eng yuqori va eng pastni olib tashlab o‘rtacha.
+
+3 ta sonning EKUB (if bilan).
+
+3 ta sonning EKUK.
+
+5 xonali son raqamlar ko‘paytmasi.
+
+Sonning raqamlari o‘sish tartibidami?
+
+Mini loyiha: Login & Password tizimi (tekshiruvlar bilan).

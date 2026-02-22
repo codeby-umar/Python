@@ -1,4 +1,4 @@
-# 👋 Salom, men Shaxriyor Turgʻunov
+# 👋 Salom, Muhammad Umar Turgʻunov
 
 ## 🚀 Python Developer | Algorithm Learner | Problem Solver
 

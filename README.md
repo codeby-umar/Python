@@ -6,17 +6,6 @@ Men Python dasturlash tilini chuqur o‘rganayapman va har kuni yangi modullar, 
 
 ---
 
-## 🧠 Bilimlarim
-
-- ✅ Python Core
-- ✅ OOP (Object Oriented Programming)
-- ✅ Math, Random, Datetime modullari
-- ✅ Algoritmik masalalar
-- ✅ LeetCode style problems
-- ✅ Binary & ASCII ishlash
-
----
-
 ## 📂 Ushbu repository haqida
 
 Bu repository ichida:

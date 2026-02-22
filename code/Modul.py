@@ -19,3 +19,17 @@ from datetime import datetime , date , time , timedelta
 # print(futee)
 
 
+
+
+oy = int(input("Tug'ilgan oyingiz :"))
+kun = int(input("Tug'ilgan kuningizni kiriting :"))
+year = int(input("Tug'ilgan yilingizni kiriting :"))
+
+over_Times = date(year , oy , kun)
+print(over_Times)
+
+now_Dates = date(2026 , 2 , 22 )
+print(now_Dates)
+
+jami = now_Dates - over_Times
+print( "shuncha yashab qoyibsanku :" , jami)

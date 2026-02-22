@@ -1,3 +1,312 @@
+Ikkita son kiritilsin, ularning oxirgi raqamlari ko‘paytmasini toping.
+
+Ikkita son kiritilsin, birinchining birinchi raqami bilan ikkinchisining oxirgi raqami yig‘indisini toping.
+
+Ikkita 3 xonali son kiritilsin, raqamlarini teskarisiga aylantirib ayirmasini toping.
+
+Ikkita son kiritilsin, katta sonni kichigiga bo‘lgandagi qoldiqni toping (shartsiz).
+
+Ikkita son kiritilsin, ularning kvadratlari yig‘indisidan ko‘paytmasini ayiring.
+
+Ikkita son kiritilsin, o‘rta arifmetigini toping.
+
+Ikkita son kiritilsin, o‘rta geometrigini toping.
+
+Ikkita 4 xonali son kiritilsin, raqamlar yig‘indilari ayirmasini toping.
+
+Ikkita son kiritilsin, oxirgi 2 raqamlarini almashtirib yangi son yasang.
+
+Ikkita son kiritilsin, birinchining yuzlik xonasi bilan ikkinchisining birlik xonasini ko‘paytiring.
+
+Ikkita son kiritilsin, har birining raqamlar ko‘paytmasini topib yig‘indisini chiqaring.
+
+Ikkita son kiritilsin, teskarisiga aylantirib yig‘indisini toping.
+
+Ikkita son kiritilsin, modullari ayirmasini toping.
+
+Ikkita son kiritilsin, kub yig‘indisidan kvadrat ayirmasini toping.
+
+Ikkita son kiritilsin, ularning EKUBini arifmetik formulalar bilan toping.
+
+Ikkita son kiritilsin, EKUKini toping.
+
+Ikkita son kiritilsin, raqamlar sonlari ko‘paytmasini toping.
+
+Ikkita son kiritilsin, birinchini ikkinchisining darajasiga oshiring.
+
+Ikkita son kiritilsin, ularning o‘zaro foiz nisbatini toping.
+
+Ikkita son kiritilsin, oxirgi 3 raqamlarini birlashtirib yangi son yasang.
+
+Ikkita son kiritilsin, har ikkisining raqamlar yig‘indisini ko‘paytiring.
+
+Ikkita son kiritilsin, birinchining raqamlarini kamayish tartibida yozib son hosil qiling.
+
+Ikkita son kiritilsin, oxirgi raqamlarini almashtirib ayirmasini toping.
+
+Ikkita son kiritilsin, birinchining ildizi bilan ikkinchisining kvadratini ko‘paytiring.
+
+Ikkita son kiritilsin, har ikkisining oxirgi 2 raqami yig‘indisini toping.
+
+Ikkita son kiritilsin, birinchining birinchi 2 raqami bilan ikkinchisining oxirgi 2 raqamini qo‘shing.
+
+Ikkita son kiritilsin, modullari yig‘indisini kvadratga oshiring.
+
+Ikkita son kiritilsin, birinchining 3-darajasi bilan ikkinchisining 2-darajasi ayirmasini toping.
+
+Ikkita son kiritilsin, raqamlar sonlari ayirmasini toping.
+
+Ikkita son kiritilsin, har ikkisining birinchi raqamlarini ko‘paytiring.
+
+Ikkita son kiritilsin, har ikkisini teskari yozib ko‘paytiring.
+
+Ikkita son kiritilsin, o‘rta garmonikini toping.
+
+Ikkita son kiritilsin, har ikkisining raqamlar yig‘indisini kvadratga oshiring.
+
+Ikkita son kiritilsin, katta sonning kichigiga nisbatan necha marta katta ekanini toping.
+
+Ikkita son kiritilsin, oxirgi raqamlarining kvadratlari yig‘indisini toping.
+
+Ikkita son kiritilsin, birinchining oxirgi 3 raqami bilan ikkinchisining birinchi 3 raqamini qo‘shing.
+
+Ikkita son kiritilsin, raqamlar ko‘paytmalari ayirmasini toping.
+
+Ikkita son kiritilsin, modullari ko‘paytmasini toping.
+
+Ikkita son kiritilsin, har ikkisining raqamlarini o‘sish tartibida yozib yangi son hosil qiling.
+
+Ikkita son kiritilsin, yig‘indisini teskarisiga aylantiring.
+
+Ikkita son kiritilsin, ko‘paytmasining oxirgi 4 raqamini chiqaring.
+
+Ikkita son kiritilsin, har ikkisining birinchi va oxirgi raqamlari yig‘indisini toping.
+
+Ikkita son kiritilsin, o‘rta arifmetikning kvadratini toping.
+
+Ikkita son kiritilsin, ayirmasining modulini kubga oshiring.
+
+Ikkita son kiritilsin, yig‘indisining ildizini toping.
+
+Ikkita son kiritilsin, birinchini ikkinchisiga bo‘lib natijaning faqat kasr qismini chiqaring.
+
+Ikkita son kiritilsin, har ikkisining raqamlar yig‘indisi ko‘paytmasini chiqaring.
+
+Ikkita son kiritilsin, kvadratlari ayirmasining modulini toping.
+
+Ikkita son kiritilsin, har ikkisining oxirgi 2 raqamini almashtirib yangi son hosil qiling.
+
+Ikkita son kiritilsin, barcha raqamlarini qo‘shib umumiy yig‘indini toping.
+
+
+Ikkita son kiritilsin, ularning kvadrat ildizlari yig‘indisini toping.
+
+Ikkita musbat son kiritilsin, logarifmlarining ayirmasini toping.
+
+Son kiritilsin, uning natural logarifmini toping.
+
+Ikkita son kiritilsin, birinchini ikkinchisining darajasiga math.pow() bilan oshiring.
+
+Son kiritilsin, kvadrat ildizining butun qismini toping.
+
+Ikkita son kiritilsin, log10 yig‘indisini toping.
+
+Son kiritilsin, kub ildizini toping.
+
+Ikkita son kiritilsin, gipotenuzani math.hypot() bilan toping.
+
+Son kiritilsin, eksponentasini toping.
+
+Ikkita son kiritilsin, ularning ildizlari ko‘paytmasini toping.
+
+Son kiritilsin, ceil va floor ayirmasini toping.
+
+Ikkita son kiritilsin, fabs yig‘indisini toping.
+
+Son kiritilsin, sqrt(x² + 1) ni hisoblang.
+
+Ikkita son kiritilsin, logarifmlar ko‘paytmasini toping.
+
+Son kiritilsin, exp(log(x)) ni tekshiring.
+
+Ikkita son kiritilsin, ildizlari ayirmasining modulini toping.
+
+Son kiritilsin, pow(x, 0.5) orqali ildiz toping.
+
+Ikkita son kiritilsin, sqrt(a² + b²) ni hisoblang.
+
+Son kiritilsin, log2() qiymatini toping.
+
+Ikkita son kiritilsin, natural log yig‘indisini toping.
+
+🔥 21–40 (Trigonometriya)
+
+Gradus kiritilsin, radian ga o‘tkazing.
+
+Radian kiritilsin, gradusga o‘tkazing.
+
+Burchak kiritilsin, sinusini toping.
+
+Burchak kiritilsin, kosinusini toping.
+
+Burchak kiritilsin, tangensini toping.
+
+Ikkita burchak kiritilsin, sinuslari yig‘indisini toping.
+
+Ikkita burchak kiritilsin, kosinuslari ko‘paytmasini toping.
+
+Burchak kiritilsin, sin² + cos² ni tekshiring.
+
+Son kiritilsin, asin() qiymatini toping.
+
+Son kiritilsin, acos() qiymatini toping.
+
+Son kiritilsin, atan() qiymatini toping.
+
+Ikkita son kiritilsin, atan2(y,x) ni toping.
+
+Burchak kiritilsin, sin(x) + cos(x) ni toping.
+
+Burchak kiritilsin, tan(x)² + 1 ni hisoblang.
+
+Ikkita burchak kiritilsin, farqining sinusini toping.
+
+Burchak kiritilsin, cos(x/2) ni toping.
+
+Burchak kiritilsin, sin(2x) ni hisoblang.
+
+Son kiritilsin, degrees(asin(x)) ni toping.
+
+Son kiritilsin, radians(180) ni tekshiring.
+
+Ikkita son kiritilsin, hypot(sin(a), cos(b)) ni toping.
+
+🔥 41–60 (Yaxlitlash va maxsus funksiyalar)
+
+Son kiritilsin, ceil() qiymatini toping.
+
+Son kiritilsin, floor() qiymatini toping.
+
+Son kiritilsin, trunc() qiymatini toping.
+
+Ikkita son kiritilsin, fmod() ni toping.
+
+Son kiritilsin, factorial() ni toping.
+
+Son kiritilsin, gamma() qiymatini toping.
+
+Son kiritilsin, lgamma() qiymatini toping.
+
+Son kiritilsin, isfinite() natijasini chiqaring.
+
+Son kiritilsin, isinf() tekshiring.
+
+Son kiritilsin, isnan() tekshiring.
+
+Ikkita son kiritilsin, copysign() natijasini toping.
+
+Son kiritilsin, fabs() qiymatini toping.
+
+Ikkita son kiritilsin, gcd() ni toping.
+
+Ikkita son kiritilsin, lcm() ni toping.
+
+Son kiritilsin, perm() ni toping.
+
+Son kiritilsin, comb() ni toping.
+
+Son kiritilsin, sqrt(factorial(x)) ni toping.
+
+Son kiritilsin, log(factorial(x)) ni toping.
+
+Son kiritilsin, exp(-x²) ni toping.
+
+Ikkita son kiritilsin, dist() yordamida masofa toping.
+
+🔥 61–80 (Aralash murakkab formulalar)
+
+Ikkita son kiritilsin, (sin(a)+cos(b))² ni toping.
+
+Son kiritilsin, sqrt(abs(sin(x))) ni toping.
+
+Ikkita son kiritilsin, log(a+b) ni toping.
+
+Son kiritilsin, exp(sin(x)) ni toping.
+
+Son kiritilsin, sqrt(1 - cos²(x)) ni toping.
+
+Ikkita son kiritilsin, hypot(a,b) + log(a) ni toping.
+
+Son kiritilsin, ceil(sin(x)*10) ni toping.
+
+Son kiritilsin, floor(exp(x)) ni toping.
+
+Ikkita son kiritilsin, atan2(a,b) + sqrt(a²+b²) ni toping.
+
+Son kiritilsin, log2(exp(x)) ni toping.
+
+Son kiritilsin, sin(radians(x)) ni toping.
+
+Son kiritilsin, degrees(atan(x)) ni toping.
+
+Ikkita son kiritilsin, sqrt(gcd(a,b)) ni toping.
+
+Son kiritilsin, factorial(abs(x)) ni toping.
+
+Son kiritilsin, gamma(x+1) ni toping.
+
+Son kiritilsin, log10(sqrt(x)) ni toping.
+
+Son kiritilsin, sin(x) * exp(x) ni toping.
+
+Son kiritilsin, cos(x) / (1 + x²) ni toping.
+
+Ikkita son kiritilsin, hypot(sin(a), sin(b)) ni toping.
+
+Son kiritilsin, fabs(log(x)) ni toping.
+
+🔥 81–100 (Olimpiada darajasi formulalar)
+
+Son kiritilsin, exp(-x) * sin(x) ni toping.
+
+Son kiritilsin, sqrt(exp(x) + log(x)) ni toping.
+
+Ikkita son kiritilsin, atan2(sin(a), cos(b)) ni toping.
+
+Son kiritilsin, log(abs(sin(x))) ni toping.
+
+Son kiritilsin, sqrt(1 + tan²(x)) ni toping.
+
+Son kiritilsin, ceil(exp(-x²)) ni toping.
+
+Ikkita son kiritilsin, gcd(floor(a), floor(b)) ni toping.
+
+Son kiritilsin, sqrt(log2(x) + log10(x)) ni toping.
+
+Son kiritilsin, sin(x)² + cos(x)² + tan(x)² ni toping.
+
+Ikkita son kiritilsin, hypot(exp(a), exp(b)) ni toping.
+
+Son kiritilsin, degrees(asin(sin(x))) ni toping.
+
+Son kiritilsin, log(exp(sin(x))) ni toping.
+
+Son kiritilsin, sqrt(gamma(x)) ni toping.
+
+Son kiritilsin, fabs(sin(x) - cos(x)) ni toping.
+
+Ikkita son kiritilsin, dist([a,b],[0,0]) ni toping.
+
+Son kiritilsin, ceil(log(x² + 1)) ni toping.
+
+Son kiritilsin, sqrt(abs(tan(x))) ni toping.
+
+Son kiritilsin, exp(log10(x)) ni toping.
+
+Son kiritilsin, sin(x) + sin(2x) + sin(3x) ni toping.
+
+Son kiritilsin, sqrt(exp(x) * cos(x)) ni toping.
+
 Ildiz va daraja - vazifalar 
 Berilgan sonning kvadrat ildizini top (math.sqrt)
 Sonning kub ildizini top
